@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/Biweekly Contest 82/6116. Evaluate Boolean Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/Biweekly Contest 82/6117. The Latest Time to Catch a Bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/Biweekly Contest 82/6118. Minimum Sum of Squared Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/Biweekly Contest 83/6128. Best Poker Hand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/Biweekly Contest 83/6129. Number of Zero-Filled Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/weekly/300contest/2327. Number of People Aware of a Secret.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/weekly/300contest/6108. Decode the Message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/weekly/300contest/6111. Spiral Matrix IV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/weekly/301/6112. Minimum Amount of Time to Fill Cups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/weekly/302WeeklyContest/6120. Maximum Number of Pairs in Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/weekly/302WeeklyContest/6164. Max Sum of a Pair With Equal Sum of Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/leetcode/weekly/Weekly Contest 303/6124. First Letter to Appear Twice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/programmers/2022-06-03/q-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/programmers/2022-06-03/q-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/programmers/2022-06-03/q-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/0.contest/programmers/2022-06-03/q-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/1929. Concatenation of Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/1941. Check if All Characters Have Equal Number of Occurrences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2006. Count Number of Pairs With Absolute Difference K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2032TwoOutofTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2033. Minimum Operations to Make a Uni-Value Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2053. Kth Distinct String in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2057. Smallest Index With Equal Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2073. Time Needed to Buy Tickets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2078. Two Furthest Houses With Different Colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2085. Count Common Words With One Occurrence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2089. Find Target Indices After Sorting Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2094. Finding 3-Digit Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2099. Find Subsequence of Length K With the Largest Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2108. Find First Palindromic String in the Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2114. Maximum Number of Words Found in Sentences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2133. Check if Every Row and Column Contains All Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2144. Minimum Cost of Buying Candies With Discount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2148. Count Elements With Strictly Smaller and Greater Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/2154. Keep Multiplying Found Values by Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/974SubArraySumsDivisorByK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/arrays/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/1022. Sum of Root To Leaf Binary Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/1971. Find if Path Exists in Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/671. Second Minimum Node In a Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/733. Flood Fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/783. Minimum Distance Between BST Nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/872. Leaf-Similar Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/938. Range Sum of BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/965. Univalued Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dfs/993. Cousins in Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dp/1025. Divisor Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dp/119. Pascal's Triangle II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dp/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dp/135. Candy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/dp/1646. Get Maximum in Generated Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1790. Check if One String Swap Can Make Strings Equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1796. Second Largest Digit in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1805. Number of Different Integers in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1832. Check if the Sentence Is Pangram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1876. Substrings of Size Three with Distinct Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1893. Check if All the Integers in a Range Are Covered.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1897. Redistribute Characters to Make All Strings Equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/1935. Maximum Number of Words You Can Type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/2032. Two Out of Three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/2133. Check if Every Row and Column Contains All Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/2154. Keep Multiplying Found Values by Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/2190. Most Frequent Number Following Key In an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/hashtables/2206. Divide Array Into Equal Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/1668. Maximum Repeating Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2027. Minimum Moves to Convert String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2042. Check if Numbers Are Ascending in a Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2047. Number of Valid Words in a Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2062. Count Vowel Substrings of a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2085. Count Common Words With One Occurrence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2103. Rings and Rods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2124. Check if All A's Appears Before All B's.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2129. Capitalize the Title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2138. Divide a String Into Groups of Size k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2185. Counting Words With a Given Prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/2194. Cells in a Range on an Excel Sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/1.easy-solutions/strings/680. Valid Palindrome II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/1048. Longest String Chain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/120. Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/1647. Minimum Deletions to Make Character Frequencies Unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/1695. Maximum Erasure Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/1696. Jump Game VI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/1818. Minimum Absolute Sum Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/215. Kth Largest Element in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/2311. Longest Binary Subsequence Less Than or Equal to K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/583. Delete Operation for Two Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/792. Number of Matching Subsequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/97. Interleaving String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/2.medium-solutions/a792. Number of Matching Subsequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/3.hard-solutions/1354. Construct Target Array With Multiple Sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/3.hard-solutions/376. Wiggle Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/3.hard-solutions/630. Course Schedule III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/3.hard-solutions/968. Binary Tree Cameras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/1235. Maximum Profit in Job Scheduling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/1423. Maximum Points You Can Obtain from Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/1710. Maximum Units on a Truck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/376. Wiggle Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/665. Non-decreasing Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/knapsackProblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/algoSolutions/missingRectangleSize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/atcoders/algogroup/A - Double Helix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/atcoders/algogroup/B - ATCoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/atcoders/algogroup/C - GeT AC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo/atcoders/algogroup/D - We Like AGC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fas.code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/PrimitiveTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/SwapBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/smallestNonconstructibleValue/SmallestNonconstructibleValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a118PascalsTriangle/a118PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/(4) Binary Tree Level Order Traversal - LeetCode.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/SONATA.7472d733.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/chunk-vendors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/tree1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a200NumberofIslands/a200NumberofIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a240Searcha2DMatrixII/a240Searcha2DMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c315CountofSmallerNumbersAfterSelf/LCCSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c315CountofSmallerNumbersAfterSelf/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/template/MacroTemplates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a473MatchstickstoSquare/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/easy$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/easy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/(Texts in Computer Science) Steven S. Skiena - The Algorithm Design Manual-Springer (2020).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/(Texts in Computer Science) Steven S. Skiena, Miguel Revilla - Programming Challenges_ The Programming Contest Training Manual-Springer (2003).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/(Undergraduate topics in computer science) Antti Laaksonen - Guide to competitive programming_ learning and improving algorithms through contests-Springer International Publishing (2017).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Christoph Dürr, Jill-Jênn Vie - Competitive Programming in Python_ 128 Algorithms to Develop your Coding Skills-Cambridge University Press (2021).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Steven Halim, Felix Halim - Competitive Programming 3_ The New Lower Bound of Programming Contests-Lulu.com (2013).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Steven Halim, Felix Halim, Suhendry Effendy - Competitive Programming 4_ The Lower Bound of Programming Contests in the 2020s. 1-Lulu.com (2018).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Borrn8UovAtGYIr8xdaceiWPK2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.a240Searcha2DMatrixII.whenGivenMatrixWithTarget_thenFound">
+    <configuration name="LCCSolution.countSmaller_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf.LCCSolution" />
+      <option name="METHOD_NAME" value="countSmaller_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.countSmaller_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf.Solution" />
+      <option name="METHOD_NAME" value="countSmaller_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapBits.bitSwaps_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epi.PrimitiveTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
+      <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.SwapBits" />
+      <option name="METHOD_NAME" value="bitSwaps_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a240Searcha2DMatrixII.whenGivenMatrixWithTarget_thenFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Bmedium.a240Searcha2DMatrixII.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a240Searcha2DMatrixII" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a240Searcha2DMatrixII.a240Searcha2DMatrixII" />
+      <option name="METHOD_NAME" value="whenGivenMatrixWithTarget_thenFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c315CountofSmallerNumbersAfterSelf.countSmaller_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Chard.c315CountofSmallerNumbersAfterSelf.c315CountofSmallerNumbersAfterSelf" />
+      <option name="METHOD_NAME" value="countSmaller_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.a240Searcha2DMatrixII.whenGivenMatrixWithTarget_thenFound" />
+        <item itemvalue="JUnit.LCCSolution.countSmaller_test" />
+        <item itemvalue="JUnit.Solution.countSmaller_test" />
+        <item itemvalue="JUnit.c315CountofSmallerNumbersAfterSelf.countSmaller_test" />
+        <item itemvalue="JUnit.SwapBits.bitSwaps_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="" />
+      <created>1657583483749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657583483749</updated>
+      <workItem from="1657583484945" duration="4000" />
+      <workItem from="1657583560919" duration="6674000" />
+      <workItem from="1657684827001" duration="686000" />
+      <workItem from="1657753465915" duration="6667000" />
+      <workItem from="1657795461882" duration="6850000" />
+      <workItem from="1658049128741" duration="6260000" />
+      <workItem from="1658103462543" duration="598000" />
+      <workItem from="1658142788046" duration="13242000" />
+      <workItem from="1658208776042" duration="1189000" />
+      <workItem from="1658534834357" duration="5434000" />
+      <workItem from="1658646053826" duration="2045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

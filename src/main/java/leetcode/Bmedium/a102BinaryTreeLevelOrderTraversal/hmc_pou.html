@@ -1,0 +1,1610 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)http://localhost:8080/main# -->
+<html lang=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="http://localhost:8080/favicon.ico">
+  <title>hmc_pou</title>
+  <script :src="require(&#39;https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png&#39;)"></script>
+  <script :src="require(&#39;@/../../1.docs/old/assets/js/jquery-1.12.4.min.js&#39;)"></script>
+  <script :src="require(&#39;@/../../1.docs/old/assets/js/owl.carousel.js&#39;)"></script>
+<script defer="" src="./hmc_pou_files/chunk-vendors.js"></script><script defer="" src="./hmc_pou_files/app.js"></script><style type="text/css">/**
+ * Owl Carousel v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+.owl-carousel,.owl-carousel .owl-item{-webkit-tap-highlight-color:transparent;position:relative}.owl-carousel{display:none;width:100%;z-index:1}.owl-carousel .owl-stage{position:relative;touch-action:manipulation;-moz-backface-visibility:hidden}.owl-carousel .owl-stage:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel .owl-stage-outer{position:relative;overflow:hidden;-webkit-transform:translate3d(0,0,0)}.owl-carousel .owl-item,.owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}.owl-carousel .owl-item{min-height:1px;float:left;-webkit-backface-visibility:hidden;-webkit-touch-callout:none}.owl-carousel .owl-item img{display:block;width:100%}.owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{display:none}.no-js .owl-carousel,.owl-carousel.owl-loaded{display:block}.owl-carousel .owl-dot,.owl-carousel .owl-nav .owl-next,.owl-carousel .owl-nav .owl-prev{cursor:pointer;-webkit-user-select:none;-moz-user-select:none;user-select:none}.owl-carousel .owl-nav button.owl-next,.owl-carousel .owl-nav button.owl-prev,.owl-carousel button.owl-dot{background:0 0;color:inherit;border:none;padding:0!important;font:inherit}.owl-carousel.owl-loading{opacity:0;display:block}.owl-carousel.owl-hidden{opacity:0}.owl-carousel.owl-refresh .owl-item{visibility:hidden}.owl-carousel.owl-drag .owl-item{touch-action:pan-y;-webkit-user-select:none;-moz-user-select:none;user-select:none}.owl-carousel.owl-grab{cursor:move;cursor:-webkit-grab;cursor:grab}.owl-carousel.owl-rtl{direction:rtl}.owl-carousel.owl-rtl .owl-item{float:right}.owl-carousel .animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}.owl-carousel .owl-animated-in{z-index:0}.owl-carousel .owl-animated-out{z-index:1}.owl-carousel .fadeOut{-webkit-animation-name:fadeOut;animation-name:fadeOut}@-webkit-keyframes fadeOut{0%{opacity:1}100%{opacity:0}}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}.owl-height{transition:height .5s ease-in-out}.owl-carousel .owl-item .owl-lazy{opacity:0;transition:opacity .4s ease}.owl-carousel .owl-item .owl-lazy:not([src]),.owl-carousel .owl-item .owl-lazy[src^=""]{max-height:0}.owl-carousel .owl-item img.owl-lazy{transform-style:preserve-3d}.owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(data:image/png;base64,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) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}.owl-carousel .owl-video-play-icon:hover{transform:scale(1.3,1.3)}.owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}.owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;background-size:contain;transition:opacity .4s ease}.owl-carousel .owl-video-frame{position:relative;z-index:1;height:100%;width:100%}</style><style type="text/css">/**
+ * Owl Carousel v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+/*
+ * 	Default theme - Owl Carousel CSS File
+ */
+.owl-theme .owl-nav {
+  margin-top: 10px;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent; }
+  .owl-theme .owl-nav [class*='owl-'] {
+    color: #FFF;
+    font-size: 14px;
+    margin: 5px;
+    padding: 4px 7px;
+    background: #D6D6D6;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px; }
+    .owl-theme .owl-nav [class*='owl-']:hover {
+      background: #869791;
+      color: #FFF;
+      text-decoration: none; }
+  .owl-theme .owl-nav .disabled {
+    opacity: 0.5;
+    cursor: default; }
+
+.owl-theme .owl-nav.disabled + .owl-dots {
+  margin-top: 10px; }
+
+.owl-theme .owl-dots {
+  text-align: center;
+  -webkit-tap-highlight-color: transparent; }
+  .owl-theme .owl-dots .owl-dot {
+    display: inline-block;
+    zoom: 1;
+    *display: inline; }
+    .owl-theme .owl-dots .owl-dot span {
+      width: 10px;
+      height: 10px;
+      margin: 5px 7px;
+      background: #D6D6D6;
+      display: block;
+      -webkit-backface-visibility: visible;
+      transition: opacity 200ms ease;
+      border-radius: 30px; }
+    .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+      background: #869791; }
+</style><style type="text/css">*,
+**::before,
+**::after {
+    box-sizing: border-box;
+}
+
+* {
+    _border: 1px solid lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+/* Hyundai Font */
+@font-face {
+	font-family: "HyundaiSansTextKRRegular";
+	src: url(http://localhost:8080/fonts/HyundaiSansTextKRRegular.07456101.woff) format("woff");
+}
+
+@font-face {
+	font-family: "HyundaiSansTextKRMedium";
+	src: url(http://localhost:8080/fonts/HyundaiSansTextKRMedium.8933fc4a.woff) format("woff");
+}
+
+@font-face {
+	font-family: "HyundaiSansTextKRBold";
+	src: url(http://localhost:8080/fonts/HyundaiSansTextKRBold.0165092d.woff) format("woff");
+}
+
+/* Genesis Font */
+@font-face {
+	font-family: "GenesisSansTextKRRegular";
+	src: url(http://localhost:8080/fonts/GenesisSansTextKRRegular.466cf934.woff) format("woff");
+}
+
+@font-face {
+	font-family: "GenesisSansHeadKRLight";
+	src: url(http://localhost:8080/fonts/GenesisSansHeadKRLight.4055bb02.woff) format("woff");
+}
+
+
+html {
+
+}
+
+body {
+
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.spacer {
+    padding: 0 15px;
+}
+
+.spacer-s {
+    padding: 0px 3px;
+}
+
+.center-me {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.c-blue {
+    color: #002c5f;
+ 
+}
+
+/* Common */
+
+.brand {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.brand input {
+    margin-right: 5px;
+}
+
+.brand label {
+    cursor: pointer;  
+}
+
+.brand:first-child {
+    margin-right: 15px;
+}
+
+.brand--hyundai label {
+    font-weight: bold;
+}
+
+.brand--genesis {
+
+}
+
+/* Main */
+
+.header__region,
+.header__language {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    width: 100%;
+    _height: 650px;
+    z-index: 9999;
+}
+
+.region-box,
+.language-box {
+    position: relative;
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 30px 50px 65px 30px;
+    border: 1px solid #999;
+}
+
+
+.region-close,
+.language-close {
+    position: absolute;
+    top: 25px;
+    right: 40px;
+}
+
+.region-close img,
+.language-close img {
+    height: 20px;
+    width: auto;
+}
+
+
+.language {
+    color: #333;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.language div {
+    width: 25%;
+    height: 250px;
+    display: inline-block;
+    margin-right: 5%;
+}
+
+.language-header {
+    font-size: 21px;
+    margin: 0px 0px 65px;
+}
+
+.language__region {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.language ul {
+    height: 90%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.language ul li {
+    margin: 0px 10px 5px 0px;
+}
+
+.language ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 12px;
+}
+
+.header .container {
+    position: relative;
+    width: 70%;
+}
+
+/* -----------------------------------------------------------------------------------------Header Nav */
+
+.header__main {
+    padding: 20px 0px;
+}
+
+.header__main > .container {
+    display: flex;
+}
+
+.header__logo-box { 
+    height: 100%;
+    width: 100%;
+}
+
+.header__logo-box img {
+    cursor: pointer;   
+    width: 150px;
+}
+
+.header__link-box {
+    display: flex;
+    align-items: center;
+}
+
+.header__link-box {
+    display: flex;
+    align-items: center;
+}
+
+.header__link-box--brand {
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.header__link-box--brand span {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.header__link-box--language {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-right: 14px;
+    padding: 6px 10px;
+    border-radius: 3px;
+}
+
+.header__link-box--language > img{
+    transform: translateY(0px);
+}
+
+
+.header__link-box--language span {
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 5px;
+    letter-spacing: 2px;
+}
+
+.header__link-box--search {
+    cursor: pointer;
+}
+
+.header__brand-button {
+    position: relative;
+    cursor: pointer;
+    display: none;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.header__brand-box {
+    display: none;
+    position: absolute;
+    _background: #fff;
+    _border-radius: 5px;
+    top: 23px;
+    left: -15px;
+    z-index: 10;
+}
+.header__brand-box.active {
+    display: block;
+}
+
+.header__brand-box ul {
+   list-style: none;
+}
+
+.header__brand-box ul li {
+    background-color: #f1f1f1;
+    _border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+ }
+
+ .header__brand-box ul li {
+    _margin-bottom: 5px;
+ }
+
+.header__brand-button span {
+    font-weight: bold;
+    margin-right: 5px;
+    letter-spacing: 1px;
+}
+
+.header__brand-button > img{
+    transform: translateY(1px);
+}
+
+.header__link-box--language-mobile {
+    display: none;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.header__link-box--language-mobile > img {
+    width: 17px;
+}
+
+/* -----------------------------------------------------------------------------------------Header Background */
+
+.header__bg {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.1)), url("http://localhost:8080/img/Hyundai%20-%20BG%20image.c0b6f86d.png") no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0px;
+    color: #fff;
+}
+
+.header__bg h1 {
+    font-family: "HyundaiSansTextKRBold";
+    font-size: 63px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.header__bg p {
+    font-size: 24px;
+}
+
+/* -----------------------------------------------------------------------------------------Header Info */
+
+.header__info {
+    background: #f3f3f3;
+    padding: 15px 0px 25px;
+}
+
+.form {
+    display: flex;
+}
+
+.form-group {
+    width: 25%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.form-group:last-child {
+    justify-content: flex-end;
+}
+
+.form-group label {
+    margin-bottom: 10px;
+    display: block;
+    font-weight: bold;
+}
+
+.form-group select {
+    width: 75%;
+    outline: none;
+    padding: 10px 70px 10px 5px;
+    border: 1px solid white;
+}
+
+.form-group button {
+    border: none;
+    background: #002c5f;
+    color: #fff;
+    padding: 12px 60px;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background: #012044;
+}
+
+.header__search-box {
+    border-top: 1px solid #ccc;
+    padding: 10px 0px;
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    left: 0;
+    background: white;
+    height: 100px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__search-box.active {
+    display: flex;
+}
+
+.header__search-close {
+    position: absolute;
+    right: 18px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.header__search-close img {
+    height: 20px;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.search-box input {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    outline: none;
+    border: 1px solid #999;
+    margin-right: 10px;
+}
+
+.search-box__text {
+    padding: 10px 36px;
+    color: #fff;
+    border: none;
+    background: #002c5f;
+    cursor: pointer;
+}
+
+.search-box__text:hover {
+    background: #012044;
+}
+
+/* -----------------------------------------------------------------------------------------Main Body */
+
+.main-body {
+    background: #fff;
+    padding: 35px 0px 120px;
+}
+
+.main-body .header-text {
+    margin-bottom: 40px;
+}
+
+.car-box {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.car {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 5px;
+    border: 1px solid rgba(0,0,0,0.1);
+    margin: 10px;
+}
+
+.car__info-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.car__info-box--a {
+    margin-bottom: 5px;
+}
+
+.car__info-box--b {
+    color: #b1b1b1;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.car:hover{
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+ }
+
+.car__image-box {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.car__image-box img {
+    width: 100%
+}
+
+.car__manual-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.car-manual {
+    cursor: pointer;
+    padding: 5px 15px;
+    background: #002c5f;
+}
+
+.car-manual img {
+    display: inline-block !important;
+    height: initial !important;
+    width: initial !important;
+}
+
+.car-manual:hover {
+    background: #012044;
+}
+
+.car-manual:first-child {
+    margin-right: 10px;
+}
+
+.car-manual span {
+    margin-right: 10px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.car-manual--pdf {
+
+}
+
+.car-manual--web {
+
+}
+
+.car-manual:disabled {
+    cursor:initial;
+    opacity: 0.5;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0px 20px;
+}
+
+.footer-info {
+
+}
+
+.footer-info__logo-box {
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+.footer-info__logo-box img {
+    width: 80%;
+}
+
+
+.footer-info span {
+    display: block;
+}
+
+/* -----------------------------------------------------------------------------------------Header Search */
+
+.header__search-input {
+    background: #f3f3f3;
+    padding: 20px 0px;
+}
+
+.header__search-input > .container {
+    width: 60% !important;
+}
+
+.search-input {
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-input__text {
+    border: 1px solid #999;
+    padding: 5px 15px;
+    font-size: 16px;
+    background: #d2d2d2;
+}
+
+.search-input__input {
+    width: 89%;
+    padding-left: 10px;
+    border: 1px solid #c9c9c9;
+}
+
+.search-input__input:focus {
+    outline: none;
+}
+
+
+
+
+/* -----------------------------------------------------------------------------------------Header Search Result - Main Body */
+
+.search-result__container {
+    padding: 0px 0 40px 0;
+}
+.search-result {
+    background: #fff;
+    padding: 30px 15px 10px;
+}
+
+.search-result_header {
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+
+}
+
+.searchItem {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.search-result__main {
+    display: flex;
+    flex-direction: row;
+}
+
+.search-result__main > * {
+    padding: 20px 0px 100px;
+}
+
+.sresult--a {
+    position: relative;
+    width: 20%;
+    margin-right: 20px;
+    border-right: 1px solid rgba(0,0,0,0.1);
+}
+
+.sresult--a > * {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.sresult--a > ul {
+    list-style: none;
+}
+
+.sresult--a > ul > li:first-child{
+    font-weight: bold;
+    font-size: 21px;
+    margin-bottom: 5px;
+}
+
+.sresult--a > ul > li {
+    margin-bottom: 5px;
+}
+
+.sresult--a > ul > li > label {
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.sresult--a__option {
+    position: absolute;
+    right: 12px;
+    top: 8px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+
+.sresult--b {
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.sresult--b > .car {
+    width: 43%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+
+.sresult--b__page {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sresult--b__page li {
+    list-style: none;
+}
+
+.sresult--b__page li:not(:last-child) {
+    margin-right: 30px;
+}
+
+.sresult--b__page li a {
+    font-size: 16px;
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #c9c9c9;
+    border: 1px solid #e5e5e5;
+}
+/* ----------------------------------------------------------------------------------------------------------------COOKIES  */
+
+.cookies {
+    width: 270px;
+    padding: 30px 60px 40px;
+    position: absolute;
+    bottom: 0;
+    right: -20px;
+    z-index: 999999999;
+    display: flex;
+    flex-direction: column;
+    background: #d9d1c8;
+}
+
+.cookies-info h3 {
+    margin-bottom: 20px;
+}
+
+.cookies-info {
+    margin-bottom: 20px;
+}
+
+.cookies-info > p > span{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cookies-button {
+
+}
+
+.cookies-button > a {
+    cursor: pointer;
+    text-align: center;
+    display: block;
+    background: #d9d1c8;
+    margin-bottom: 10px;
+    border: 2px solid #000;
+    padding: 10px;
+    color: #222;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cookies-button > a:hover {
+    background: #222;
+    margin-bottom: 10px;
+    border: 2px solid #d9d1c8;
+    color: #fff;
+
+}
+
+
+/* ----------------------------------------------------------------------------------------------------------------Hyundai Theme - START  */
+
+.hyundai {
+    display: block;
+    font-family: "HyundaiSansTextKRRegular";
+    font-size: 16px;
+    color: #333;
+    background: #f3f3f3;
+    position: relative;
+    overflow: hidden;
+}
+
+.hyundai .header {
+    background: #fff;
+    position: relative;
+}
+
+.hyundai .header__region,
+.hyundai .header__language {
+    _border-top: 1px solid #c9c9c9;
+} 
+
+.hyundai .language-box {
+    background-color: #fff;
+}
+
+.hyundai .header__language.active {
+    display: block;
+}
+
+.hyundai .header__region.active {
+    display: block;
+}
+
+
+.hyundai .searchItem {
+    color: #002c5f;
+
+}
+
+.hyundai .header__brand-box {
+    border: 1px solid #a2a2a2; 
+    color: #333;
+    background: #f4f4f4;
+}
+
+.hyundai .header__brand-box ul li {
+    background-color: #fff;
+
+ }
+
+.hyundai .sresult--b__page li:first-child a{
+    color: #fff;
+    background: #002c5f;
+    border: 1px solid #e5e5e5;
+}
+
+.hyundai .sresult--b__page li:hover{
+    color: #fff;
+    background: #002c5f;
+}
+
+.hyundai .header__link-box--language {
+    background: #f2f2f2f2;
+}
+
+
+
+
+/* ----------------------------------------------------------------------------------------------------------------Hyundai Theme - END  */
+
+/* ----------------------------------------------------------------------------------------------------------------Genesis Theme - START */
+
+.genesis {
+    display: none;
+    font-family: "GenesisSansTextKRRegular";
+    font-size: 16px;
+    color: #fff;
+    background: #222222;
+    position: relative;
+}
+
+.genesis .header__link-box--language {
+    background: #252525;
+}
+
+.genesis .header__link-box--brand > span  {
+    color: #a6765d;
+}
+
+.genesis .header__link-box > span{
+    color: #a6765d;
+}
+
+.genesis .spacer{
+    color: #a6765d;
+}
+
+
+.genesis .header {
+    position: relative;
+}
+
+.genesis .header__region,
+.genesis .header__language {
+    display: none;
+    position: absolute;
+    top: 6  0px;
+    left: 0;
+    width: 100%;
+    _background-color: #222;
+    _border: 1px solid #e7e7e7;
+}
+
+.genesis .header__language.active {
+    display: block;
+}
+
+.genesis .header__region.active {
+    display: block;
+}
+
+
+.genesis .header__main {
+    background-color: #000;
+}
+
+
+.genesis .header__link-box--brand .brand label {
+    color: #999;
+}
+
+
+.genesis .header__bg {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.1)), url("http://localhost:8080/img/Genesis%20-%20BG%20image.337b8aed.png") no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 70px 0px 90px;
+    color: #fff;
+}
+
+.genesis .header__bg h1 {
+    font-family: "GenesisSansHeadKRLight";
+    color: #a6765d;
+}
+
+.genesis .header__info {
+    background: #222222;
+    border-bottom: 1px solid #5a5a5a;
+}
+
+.genesis .header__info .container {
+    _padding-bottom: 25px;
+}
+
+.genesis .form-group > label {
+    color: #a6765d;
+}
+
+
+.genesis .form-group button {
+    background: #222;
+    border: 1px solid #dbdbdb;
+}
+
+.genesis .form-group button:hover {
+    background: #000;
+}
+
+.genesis .brand--hyundai label {
+    font-weight: normal;
+}
+
+.genesis .brand--genesis {
+    font-weight: bold;
+}
+
+.genesis .main-body {
+    background-color: #222;
+}
+
+.genesis .header-text h1 {
+    color: #a6765d;
+}
+
+.genesis .car {
+    border: 1px solid #8b8b8b;
+}
+
+.genesis .car__info-box--a > h3 {
+    color: #a6765d;
+}
+
+.genesis .car-manual {
+    background: #343434;
+    border: 1px solid #dbdbdb;
+}
+
+.genesis .car-manual:hover {
+    background-color: #000;
+}
+
+.genesis .car-manual:disabled:hover{
+    background: #333;
+    opacity: 0.5;
+}
+
+.genesis .footer {
+    background-color: #000;
+}
+
+.genesis  .footer-info__logo-box img {
+    width: 115%;
+}
+
+.genesis  .footer-info__logo-box {
+    width: 120px;
+}
+
+.genesis .header__search-input {
+    background: #2222;
+    padding: 20px 0px;
+}
+
+.genesis .search-result_header {
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(255 255 255);
+}
+
+.genesis  .sresult--a {
+
+    border-right: 1px solid rgb(255 255 255);
+}
+
+.genesis .searchItem {
+    color: #a6765d;
+
+}
+
+.genesis .search-result {
+    background: #222;
+    padding: 30px 15px 10px;
+    border: 1px solid #fff;
+}
+
+.genesis .language-box {
+    background-color: #222;
+}
+
+.genesis .language__region {
+    color: #fff;
+}
+
+.genesis .language ul li a {
+    color: #fff;
+}
+
+.genesis .search-input__text {
+    border: 1px solid #616161;
+    background: #222;
+    font-size: 14px;
+}
+
+.genesis .header__search-box {
+    background-color: #222;
+}
+
+.genesis .search-box input {
+    width: 88%;
+}
+
+.genesis .search-box__text {
+    color: #fff;
+    background-color: #222;
+    border: 1px solid #fff;
+}
+
+.genesis .header__brand-box {
+    color: #a6765d;
+    background: #222;
+    border: 1px solid #626262;
+}
+
+.genesis .header__brand-box ul li {
+    background-color: #555;
+
+ }
+
+.genesis .sresult--b__page li a {
+    border: 1px solid #929292;
+ }
+
+.genesis .sresult--b__page li:first-child a{
+    color: #fff;
+    background: #a6765d;
+}
+
+.genesis .sresult--b__page li:hover{
+    color: #fff;
+    background: #a6765d;
+}
+
+
+
+/* ----------------------------------------------------------------------------------------------------------------Genesis Theme - END */
+
+/* OWL CAROUSEL */
+
+.owl-carousel {
+    position: relative;
+}
+
+.owl-nav {
+    position: relative;
+    /* width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0; */
+}
+
+.owl-prev {
+    position: absolute;
+    top: -170px;
+    left: -20px;
+}
+
+.owl-next {
+    position: absolute;
+    top: -170px;
+    right: -20px;
+}
+
+.owl-prev,
+.owl-next {
+    background: #444 !important;
+    width: 50px;
+}
+
+.owl-prev span,
+.owl-next span {
+    color: #fff;
+    font-size: 40px;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------------------RESPONSIVE */
+
+@media (max-width:1280px) {
+    .header .container {
+        width: 90%;
+    }
+
+    .region-box, .language-box {
+        position: relative;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
+        padding: 20px 20px 60px 20px;
+        border: 1px solid #a2a2a2;
+    }
+    
+}
+
+
+@media (max-width:1024px) {
+
+    .sresult--a {
+        width: 40%;
+    }
+
+    .sresult--b > .car {
+        width: 100%;
+    }
+
+    .car {
+        margin: 0px 20px 30px;
+    }
+
+    .car__image-box {
+        width: 250px;
+    }
+    
+    .form-group select {
+        padding: 10px 15px 10px 5px;
+    }
+
+     /* Hyundai */
+
+
+    /* Genesis */
+}
+
+
+@media (max-width:768px) {
+   
+
+    .header__logo-box img {
+        cursor: pointer;
+        width: 120px;
+    }
+
+    .header__bg h1 {
+        font-size: 48px;
+    }
+    
+    .header__bg p {
+        
+        font-size: 18px;
+    }
+
+    .main-body .header-text h1 {
+        font-size: 24px;
+    }
+
+    .searchItem {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .header__search-box {
+        top: 57px;
+    }
+
+    .region-box, .language-box {
+        width: 80%;
+        position: relative;
+        transform: translateY(-4px);
+    }
+
+    .form-group select,
+    .form-group button {
+        font-size: 12px;
+    }
+
+    .form-group select {
+        padding: 5px 15px 5px 5px;
+    }
+
+    .form-group button {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .footer-info__logo-box img {
+        width: 55%;
+    }
+
+    .header__link-box--brand {
+        display: none;
+    }
+
+    .header__brand-button {
+        display: flex;
+    }
+
+    .header__main {
+        padding: 15px 0px;
+    }
+
+    .header__region, .header__language {
+        top: 46px;
+        left: -6px;
+    }
+
+    
+    /* SEARCH */
+
+    .sresult--a {
+        position: relative;
+        width: 90%;
+    }
+
+    .header__search-input > .container {
+        width: 80% !important;
+    }
+
+    .car > span {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .sresult--a > ul > li:first-child {
+        font-size: 18px;
+    }
+
+    .sresult--a > ul > li > label {
+        font-size: 12px;
+    }
+
+    /* COOKIES */
+    .cookies {
+        width: 200px;
+        padding: 30px 50px 25px;
+        
+    }
+
+    .cookies-button > a {
+        padding: 7px;
+    }
+
+    /* Hyundai */
+
+    .hyundai,
+    .genesis {
+        font-size: 14px;
+    }
+
+    /* Genesis */
+
+    .genesis .footer-info__logo-box {
+        width: 100px;
+    }
+
+    .genesis .footer-info__logo-box img {
+        width: 100%;
+    }
+}
+
+
+@media (max-width:576px) {
+    .header__link-box--language {
+        display: none;
+    }
+
+    .header__link-box--language-mobile {
+        display: flex;
+    }
+
+    .header__logo-box {
+        transform: translateY(4px);
+    }
+
+    .header__logo-box img {
+        cursor: pointer;
+        width: 100px;
+    }
+
+    .header__bg h1 {
+        font-size: 36px;
+    }
+
+    .header__bg p {
+        font-size: 16px;
+    }
+    
+    .car__info-box--a {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    
+    .car__info-box--b {
+        font-size: 12px;
+    }
+    
+
+    .search-box input {
+        height: 90%;
+    }
+    .search-box__text {
+        padding: 10px 10px;
+    }
+
+    .region-close, .language-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    .region-close img, .language-close img {
+        height: 17px;
+        width: auto;
+    }
+
+    .language ul {
+        height: 100%;
+    }
+
+    .language div {
+        width: 45%;
+        height: 100%;
+        margin-bottom: 7%;
+    }
+
+    .language-header {
+        font-size: 18px;
+        margin: 10px 0px 40px;
+    }
+
+    .header__search-box {
+        height: 80px;
+    }
+
+    .header__search-close img {
+        height: 15px;
+    }
+
+
+    .main-body .header-text {
+        margin-bottom: 20px;
+    }
+
+    .main-body .header-text h1 {
+        font-size: 21px;
+    }
+
+    .header__info {
+        padding: 25px 0px 40px;
+    }
+
+    .form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form  .form-group{
+        margin-bottom: 20px;
+     }
+
+    .form  .form-group:nth-child(3) {
+       margin-bottom: 30px;
+    }
+
+    .form-group {
+        width: 100%;
+       
+    }
+
+    .footer-info__logo-box img {
+        width: 60%;
+    }
+
+    .hyundai, .genesis {
+        font-size: 12px;
+    }
+
+    .search-input__text {
+        font-size: 14px;   
+    }
+
+    /* SEARCH */
+
+    .car {
+        margin: 0px 0px 15px;
+    }
+
+    .search-result__main > .sresult--a {
+        padding: 30px 5px 100px 0px;
+    }
+
+    .sresult--a > ul > li:first-child {
+        font-size: 14px;
+    }
+
+    .sresult--b__page li:not(:last-child) {
+        margin-right: 17px;
+    }
+
+    .sresult--b__page li a {
+        font-size: 12px;
+        padding: 3px 7px;
+    }
+
+    /* Hyundai */
+
+    .hyundai .header__logo-box {
+        transform: translateY(4px);
+    }
+
+    .hyundai .footer-info__logo-box img {
+        width: 40%;
+    }
+
+    .car__image-box {
+        width: 175px;
+    }
+
+    
+    /* Genesis */
+
+    .genesis .header__logo-box img {
+        width: 85px;
+    }
+
+    .genesis .footer-info__logo-box img {
+        width: 100%;
+    }
+
+    
+    /* OWL CAROUSEL */
+    
+    .owl-prev span, .owl-next span {
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .owl-prev, .owl-next {
+        background: #444 !important;
+        width: 40px;
+    }
+
+
+}
+
+@media (max-width:400px) {
+
+    
+ 
+    .car__image-box {
+        width: 200px;    
+    }
+    
+    .car > span {
+        font-size: 16px;
+    }  
+    
+    /* SEARCH */
+
+    .search-result {
+        background: #fff;
+        padding: 40px 0px 10px;
+    }
+
+    .sresult--a > ul > li:first-child {
+        margin-bottom: 10px;
+    }
+
+    .car__image-box {
+        width: 145px;
+    }
+
+    .car-manual {
+        cursor: pointer;
+        padding: 5px 5px;
+    }
+
+    .car-manual span {
+        font-size: 12px;
+    }
+
+    /* SEARCH */
+
+    .genesis .search-result {
+        background: #222;
+        padding: 30px 0px 10px;
+        border: none;
+    }
+
+    .owl-next {
+        position: absolute;
+        top: -150px;
+        right: -20px;
+    }
+
+    .owl-prev {
+        position: absolute;
+        top: -150px;
+        right: -20px;
+    }
+
+}</style><style type="text/css">
+label[data-v-5913f762] {
+  padding: 6px;
+}
+img[data-v-5913f762] {
+  width: 100%;
+}
+
+</style></head>
+
+
+<body data-new-gr-c-s-check-loaded="14.1068.0" data-gr-ext-installed="" class="vsc-initialized">
+<noscript>
+  <strong>We're sorry but hmc_pou doesn't work properly without
+    JavaScript enabled. Please enable it to continue.</strong>
+</noscript>
+<div id="app"><body data-v-03d9b622=""><main data-v-32add8b3="" data-v-03d9b622="" class="hyundai"><div data-v-32add8b3="" class="header"><div data-v-32add8b3="" class="header__main"><div class="container"><div class="header__logo-box"><img src="http://localhost:8080/img/HYU_Logo_Horizontal_Blue_RGB.9062cf36.png" alt=""></div><div class="header__link-box"><div class="header__link-box--brand"><span>Brand</span><span class="spacer">|</span><div class="brand brand--hyundai"><input checked="checked" id="hyundaicheck" name="brand1" type="radio"><label for="hyundaicheck">Hyundai</label></div><div class="brand brand--genesis"><input id="genesischeck" name="brand1" type="radio"><label for="genesischeck">Genesis</label></div></div><div class="header__brand-button"><span>Brand</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAGCAYAAAFiNVRuAAAACXBIWXMAAAsSAAALEgHS3X78AAAAlklEQVQYlVWOsRHCMAxFn2GBsEE2YAWPwAZQSTUTJGuoAjZgAxjABUzhkpR05mQcLuhO8un+8zsFEemBiVIKdYhI8WUtIl1K6Z1zjn9J8KGqBdjwrZeZBSdGD+f2fQX0qvpwrL39rBiBAbiY2cGPicANeALRzKbmd7gD7sAWOFZDC87Avn3aAdcGVaszP3hh8+C0hGoBH9OOWG/nkQLXAAAAAElFTkSuQmCC" alt="dropdown"><div class="header__brand-box"><ul><li class="header__brand-box--hyundai">Hyundai</li><li class="header__brand-box--genesis">Genesis</li></ul></div></div><div class="header__link-box--language"><span>English(USA)</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAGCAYAAAFiNVRuAAAACXBIWXMAAAsSAAALEgHS3X78AAAAlklEQVQYlVWOsRHCMAxFn2GBsEE2YAWPwAZQSTUTJGuoAjZgAxjABUzhkpR05mQcLuhO8un+8zsFEemBiVIKdYhI8WUtIl1K6Z1zjn9J8KGqBdjwrZeZBSdGD+f2fQX0qvpwrL39rBiBAbiY2cGPicANeALRzKbmd7gD7sAWOFZDC87Avn3aAdcGVaszP3hh8+C0hGoBH9OOWG/nkQLXAAAAAElFTkSuQmCC" alt="dropdown"></div><div class="header__link-box--language-mobile"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MEIxRTQ5QzZGODFGMTFFQzhGQkU5MzU3NkMwREEzQkUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MEIxRTQ5QzVGODFGMTFFQzhGQkU5MzU3NkMwREEzQkUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkM2NDIzMEI1QzA3RDExRUNBMUVEOUM2N0JFMEU4RTlFIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkM2NDIzMEI2QzA3RDExRUNBMUVEOUM2N0JFMEU4RTlFIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+TfVdhAAAB5FJREFUeNrMWwmMFEUU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" alt="dropdown"></div><div class="header__link-box--search"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAFMandsAAAACXBIWXMAAAsSAAALEgHS3X78AAABWUlEQVQ4jYVSy1XDQAycQAG4BDoAOkgJpgJ8ko4kFZASwlG30EFKcAE5+MgxOeVIqMC8yZM2crBf9N76I83OSLN73/c9jsdjvdvtviEiCya4EB8iMufjsWRFpJ+d/xhR8sqe73NVVR0CmNksEKsiISJbT1aRqKPKdQegJY+qNuS5yAIUqIK0E5HWvxs2mGkGqnll4L9EYq77a1dGmKrYnJPNmPSMaAA/AF4BdByTy8yaMLUfkThlY8aiVtU585MAAKcAfKrqZuAm8G5mXbFaVddMOubguzs2OjiLHKpKhm6qB96GZwD7wuDaqySV45c1M1uPkUWfHOQNwHIM6AI0+Ymmm9l2QMJjAvAB4CUcmIpkygBb5r1F4NH6u8pJkmy85XZiY4z06NiDmQ2w4UmemWfHEfeO4TVZAHjw/69y+TLJlSIJuZHHx+CNPStfiRWyyUtyY7QLGbD8AxZaVo9uyLmJAAAAAElFTkSuQmCC" alt=""></div></div></div></div><div data-v-32add8b3="" class="header__bg"><div class="container"><h1>Owners Manual</h1><p>Everything you need to know About Hyundai Motor</p><p>Find Your Digital Owner's Manual</p></div></div><div data-v-32add8b3="" class="header__info"><div class="container"><form action="http://localhost:8080/main#" class="form"><div class="form-group"><label for="fuel">Type</label><select name="fuel" id="fuel"><option value="#">All Types</option><option value="suv">SUV </option><option value="sedan">Sedan </option><option value="mpv">MPV </option><option value="hydrogen_e">Hydrogen/EV </option><option value="commercial_v">Commercial Vehicle </option></select></div><div class="form-group"><label for="model">Select Model</label><select name="model" id="model"><option value="#">All Model</option><option value="grandeur">GRANDEUR </option><option value="avante_n">AVANTE N </option><option value="venue">VENUE </option><option value="sonata_h">SONATA Hybrid </option><option value="avante">AVANTE </option><option value="palisade">PALISADE </option><option value="grandeur_h">GRANDEUR Hybrid </option><option value="santa_f">SANTA FE </option><option value="ioniq">IONIQ </option><option value="i30">i30 </option><option value="staria">STARIA </option><option value="azera">AZERA </option><option value="sonata">SONATA </option><option value="kona_e">KONA Electric </option><option value="azera_h">AZERA Hybrid </option><option value="kona_h">KONA Hybrid </option><option value="nexo">NEXO </option><option value="kona">KONA </option><option value="ioniq_e">IONIQ electric </option><option value="kona_n">KONA N </option><option value="tucson">TUCSON </option><option value="ioniq_5">IONIQ 5 </option><option value="porterii">PORTERⅡ </option></select></div><div class="form-group"><label for="year">Select Year</label><select name="year" id="year"><option value="#">All Year</option><option value="2023">2023</option><option value="2022">2022</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option></select></div><div class="form-group"><button type="submit">Search</button></div></form></div></div><div data-v-32add8b3="" class="header__search-box"><div class="header__search-close"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAAGXLeQ2AAAACXBIWXMAAAsSAAALEgHS3X78AAABa0lEQVRIiZVT7VHDMAx98fU/HaVMQDdpsRdgA9oNWEBHukk6AYzACGEC9xScIMtK4uiuH5af3tOXmxgjRtvxbwhh8DgIy2BOwuC9j3w7IPhLOvg/f6b4MYyImsGhI8ZzppiZ977XGvw7RIQQegBPUsOlw76gkuGS1sqolxp5DcrkvSy8SGzqofAVdctAS9UpcBTgX60yKVjSlmJWQ61tCmi89x2AFwA3Ijob7WTf51jsW/KfQgjtHBDAqyOibwDPOkADiaiVgzoA+EqX95TaBIQuUAVkQOgBATio81EeJrDK8WoV7QwgS1+sornPRdUzNdyY+WwB8bcTWVu3jTttXyf6ao59zVTdw6bujBhuwKlWRJMWmeO/WZ18lUuVLJDaG1UjUkNaZG5kNieySrpKLkR4Id+NqzsRHQ3/OvnSoJTNDt7q+WJPtwxebkv1oBJ+VcR6RIuktSLyEfEbH62tIRUkHLtPIh/J/QMAD3aPYG6CitQOAAAAAElFTkSuQmCC" alt=""></div><div class="search-box"><input id="input" type="text" class="search-box__input"><label for="input" class="search-box__text"> Search </label></div></div><div data-v-32add8b3="" class="header__language"><div class="language-box"><a href="http://localhost:8080/main#" class="language-close"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAAGXLeQ2AAAACXBIWXMAAAsSAAALEgHS3X78AAABa0lEQVRIiZVT7VHDMAx98fU/HaVMQDdpsRdgA9oNWEBHukk6AYzACGEC9xScIMtK4uiuH5af3tOXmxgjRtvxbwhh8DgIy2BOwuC9j3w7IPhLOvg/f6b4MYyImsGhI8ZzppiZ977XGvw7RIQQegBPUsOlw76gkuGS1sqolxp5DcrkvSy8SGzqofAVdctAS9UpcBTgX60yKVjSlmJWQ61tCmi89x2AFwA3Ijob7WTf51jsW/KfQgjtHBDAqyOibwDPOkADiaiVgzoA+EqX95TaBIQuUAVkQOgBATio81EeJrDK8WoV7QwgS1+sornPRdUzNdyY+WwB8bcTWVu3jTttXyf6ao59zVTdw6bujBhuwKlWRJMWmeO/WZ18lUuVLJDaG1UjUkNaZG5kNieySrpKLkR4Id+NqzsRHQ3/OvnSoJTNDt7q+WJPtwxebkv1oBJ+VcR6RIuktSLyEfEbH62tIRUkHLtPIh/J/QMAD3aPYG6CitQOAAAAAElFTkSuQmCC" alt=""></a><h2 class="language-header"> Choose your region or language </h2><div class="language"><div><h3 class="language__region">Africa</h3><ul><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/es_ES">Spanish(Europe)</a></li><li><a href="http://localhost:8080/es_GN">Spanish</a></li><li><a href="http://localhost:8080/ar_AE">Arabic</a></li><li><a href="http://localhost:8080/pt_PT">Portuguese(Europe)</a></li><li><a href="http://localhost:8080/en_GN">English</a></li></ul></div><div><h3 class="language__region">Asia &amp; Pacific</h3><ul><li><a href="http://localhost:8080/en_AU">English(Australia)</a></li><li><a href="http://localhost:8080/zh_CN">Chinese</a></li><li><a href="http://localhost:8080/pt_PT">Portuguese(Europe)</a></li><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/en_US">English(USA)</a></li><li><a href="http://localhost:8080/ja_JP">Japanese</a></li><li><a href="http://localhost:8080/ko_KR">Korean</a></li></ul></div><div><h3 class="language__region">Central &amp; South America</h3><ul><li><a href="http://localhost:8080/en_GN">English</a></li><li><a href="http://localhost:8080/es_ES">Spanish(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/es_GN">Spanish</a></li><li><a href="http://localhost:8080/pt_BR">Portuguese(Brazil)</a></li><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/es_MX">Spanish(Mexico)</a></li></ul></div><div><h3 class="language__region">Europe</h3><ul><li><a href="http://localhost:8080/de_DE">German</a></li><li><a href="http://localhost:8080/da_DK">Danish</a></li><li><a href="http://localhost:8080/fi_FI">Finnish</a></li><li><a href="http://localhost:8080/lv_LV">Latvian</a></li><li><a href="http://localhost:8080/lt_LT">Lithuanian</a></li><li><a href="http://localhost:8080/et_EE">Estonian</a></li><li><a href="http://localhost:8080/it_IT">Italian</a></li><li><a href="http://localhost:8080/pt_PT">Portuguese(Europe)</a></li><li><a href="http://localhost:8080/sv_SE">Swedish</a></li><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/en_GN">English</a></li><li><a href="http://localhost:8080/bg_BG">Bulgarian</a></li><li><a href="http://localhost:8080/ru_RU">Russian</a></li><li><a href="http://localhost:8080/es_ES">Spanish(Europe)</a></li><li><a href="http://localhost:8080/es_GN">Spanish</a></li><li><a href="http://localhost:8080/nb_NO">Norwegian</a></li><li><a href="http://localhost:8080/nl_NL">Dutch</a></li><li><a href="http://localhost:8080/en-GB">English(UK)</a></li></ul></div><div><h3 class="language__region">Middle East</h3><ul><li><a href="http://localhost:8080/en_GN">English</a></li><li><a href="http://localhost:8080/ar_AE">Arabic</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li></ul></div><div><h3 class="language__region">North America</h3><ul><li><a href="http://localhost:8080/en_US">English(USA)</a></li><li><a href="http://localhost:8080/en_CA">English(Canada)</a></li><li><a href="http://localhost:8080/fr_CA">French(Canada)</a></li></ul></div></div></div></div></div><div data-v-32add8b3="" class="main-body"><div data-v-32add8b3="" class="container"><div data-v-32add8b3="" class="header-text center-me"><h1> New Owner's Manual </h1></div><div data-v-32add8b3="" class="owl-carousel car-box"><div class="car"><div class="car__info-box"><div class="car__info-box--a"><h3> IONIQ </h3></div><div class="car__info-box--b"><span>IONIQ</span><span class="spacer-s">|</span><span>Spanish(Europe)</span><span class="spacer-s">|</span><span>2022</span></div></div><div class="car__image-box"><img src="http://localhost:8080/img/ELANTRA.f3817d17.png" alt=""></div><div class="car__manual-box"><button class="car-manual car-manual--pdf"><span>PDF</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button><button class="car-manual car-manual--web"><span>Web</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button></div></div><div class="car"><div class="car__info-box"><div class="car__info-box--a"><h3> IONIQ </h3></div><div class="car__info-box--b"><span>IONIQ</span><span class="spacer-s">|</span><span>Spanish(Europe)</span><span class="spacer-s">|</span><span>2021</span></div></div><div class="car__image-box"><img src="http://localhost:8080/img/ELANTRA.f3817d17.png" alt=""></div><div class="car__manual-box"><button class="car-manual car-manual--pdf"><span>PDF</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button><button class="car-manual car-manual--web"><span>Web</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button></div></div><div class="car"><div class="car__info-box"><div class="car__info-box--a"><h3> IONIQ </h3></div><div class="car__info-box--b"><span>IONIQ</span><span class="spacer-s">|</span><span>Spanish(Europe)</span><span class="spacer-s">|</span><span>2020</span></div></div><div class="car__image-box"><img src="http://localhost:8080/img/ELANTRA.f3817d17.png" alt=""></div><div class="car__manual-box"><button class="car-manual car-manual--pdf"><span>PDF</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button><button class="car-manual car-manual--web"><span>Web</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button></div></div><div class="car"><div class="car__info-box"><div class="car__info-box--a"><h3> IONIQ </h3></div><div class="car__info-box--b"><span>IONIQ</span><span class="spacer-s">|</span><span>Spanish(Europe)</span><span class="spacer-s">|</span><span>2019</span></div></div><div class="car__image-box"><img src="http://localhost:8080/img/ELANTRA.f3817d17.png" alt=""></div><div class="car__manual-box"><button class="car-manual car-manual--pdf"><span>PDF</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button><button class="car-manual car-manual--web"><span>Web</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></button></div></div></div></div></div><footer data-v-32add8b3="" class="footer"><div class="container"><div class="footer-info center-me"><div class="footer-info__logo-box center-me"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT0AAACiCAYAAAAz3Bq/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2N0RDMTlGOEM1RUExMUVDQkQ1NkY5M0RDMkI4MjZCMiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2N0RDMTlGOUM1RUExMUVDQkQ1NkY5M0RDMkI4MjZCMiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjY3REMxOUY2QzVFQTExRUNCRDU2RjkzREMyQjgyNkIyIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjY3REMxOUY3QzVFQTExRUNCRDU2RjkzREMyQjgyNkIyIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+mLm4kQAAFLFJREFUeNrsnf1VGzkU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" alt=""></div><span>Copyright 2022 Hyundai Motor Company</span><span>All Rights Reserved.</span></div></div></footer><div data-v-32add8b3="" class="cookies"><div class="cookies-info"><h3>We Are Using Cookies</h3><p> We are using cookies for analyzing our own services and to show ads which is relevant for you based on your browsing habits. You may reject or set up your preferred configuration by clicking Configure. For more information click <span class="c-blue">here</span>. </p></div><div class="cookies-button"><a href="http://localhost:8080/main#" class="cookies-button--agree">I agree</a><a href="http://localhost:8080/main#" class="cookies-button--conf">Configure</a></div></div></main><main data-v-442ad232="" data-v-03d9b622="" class="genesis"><div data-v-442ad232="" class="header"><div data-v-442ad232="" class="header__main"><div class="container"><div class="header__logo-box"><img src="data:image/png;base64,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" alt=""></div><div class="header__link-box"><div class="header__link-box--brand"><span>Brand</span><span class="spacer">|</span><div class="brand brand--hyundai"><input checked="checked" id="hyundaicheck2" name="brand" type="radio"><label for="hyundaicheck2">Hyundai</label></div><div class="brand brand--genesis"><input checked="checked" id="genesischeck2" name="brand" type="radio" class="genesis-gold"><label for="genesischeck2">Genesis</label></div></div><div class="header__brand-button"><span>Brand</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAGCAYAAAFiNVRuAAAACXBIWXMAAAsSAAALEgHS3X78AAAAlklEQVQYlVWOsRHCMAxFn2GBsEE2YAWPwAZQSTUTJGuoAjZgAxjABUzhkpR05mQcLuhO8un+8zsFEemBiVIKdYhI8WUtIl1K6Z1zjn9J8KGqBdjwrZeZBSdGD+f2fQX0qvpwrL39rBiBAbiY2cGPicANeALRzKbmd7gD7sAWOFZDC87Avn3aAdcGVaszP3hh8+C0hGoBH9OOWG/nkQLXAAAAAElFTkSuQmCC" alt="dropdown"><div class="header__brand-box"><ul><li class="header__brand-box--hyundai">Hyundai</li><li class="header__brand-box--genesis">Genesis</li></ul></div></div><div class="header__link-box--language"><span>English(USA)</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAGCAYAAAAVMmT4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3OERGNDk5RkZDMjQxMUVDODZFQ0JDMzg0OEM5OTBDRiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3OERGNDlBMEZDMjQxMUVDODZFQ0JDMzg0OEM5OTBDRiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4REY0OTlERkMyNDExRUM4NkVDQkMzODQ4Qzk5MENGIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc4REY0OTlFRkMyNDExRUM4NkVDQkMzODQ4Qzk5MENGIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+KxX+XQAAAE5JREFUeNpi+P//vwIQNwCxABAzYMECUHkHEMfhPwRcwKJBACoOAgUwwQVYNCArBMkzIJuCrEEBXSG6Ygao25DBAmR5bB5KwKYQhAECDAC9a9tBAPNAGwAAAABJRU5ErkJggg==" alt="dropdown"></div><div class="header__link-box--language-mobile"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NTRCNTE5NzBGODIyMTFFQzg5RkRDRDVDRTIxNjI0QjUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NTRCNTE5NkZGODIyMTFFQzg5RkRDRDVDRTIxNjI0QjUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjBCMUU0OUM1RjgxRjExRUM4RkJFOTM1NzZDMERBM0JFIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjBCMUU0OUM2RjgxRjExRUM4RkJFOTM1NzZDMERBM0JFIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+4q8v4gAAB3lJREFUeNrcWwlsFVUU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" alt="dropdown"></div><div class="header__link-box--search"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1RUE4M0VBOUY4MjIxMUVDOTQ0MUFBMkVCNTQzNEMwRiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1RUE4M0VBQUY4MjIxMUVDOTQ0MUFBMkVCNTQzNEMwRiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjVFQTgzRUE3RjgyMjExRUM5NDQxQUEyRUI1NDM0QzBGIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjVFQTgzRUE4RjgyMjExRUM5NDQxQUEyRUI1NDM0QzBGIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+xrQybgAAARNJREFUeNqclE0OgjAQhQthLzcQT4A3kCPg0oVRTyBuXLN1JZ5A48I13qDeAG8AN6g3cEjeJKW2QJzkCz8tb960U7zHcS2MiIgE1zYqohSOWJ3uItCeQyIn9pa5H4wVNiFfE5AQeBFLwiNmxI5QxJm49Ym0GWLigFLYfo0P58Sb2BCpTSTC4NNlF04SlFXYRLa4z0V/KLiawtlPObwLQ1Fqa2gVGROha2EV7tMRIolWWkeELWYDAhHWrzFL97GNF2Lh6gOU0Sab2JL52s5wH9TImIAc72JX2YHRB9z2V2NeAwcZEgmtNTpnR2FSDkHuBQl4i6UpFDiaqnScXHbcEfIsv4Kx/SL5vAXiv2BHbfnVV4ABAG8VP29EFK1GAAAAAElFTkSuQmCC" alt=""></div></div></div></div><div data-v-442ad232="" class="header__bg"><div class="container"><h1>GENESIS <br> DRIVER'S GUIDE</h1><p>Everything you need to know About Hyundai Motor</p><p>Find Your Digital Owner's Manual</p></div></div><div data-v-442ad232="" class="header__info"><div class="container"><form action="http://localhost:8080/main#" class="form"><div class="form-group"><label for="fuel">Type</label><select name="fuel" id="fuel"><option value="#">All Types</option><option value="suv">SUV </option><option value="sedan">Sedan </option><option value="hydrogen_e">Hydrogen/EV </option></select></div><div class="form-group"><label for="model">Select Model</label><select name="model" id="model"><option value="#">All Model</option><option value="gv80">GV80 </option><option value="g90">G90 </option><option value="ioniq_6">IONIQ 6 </option><option value="gv70">GV70 </option><option value="g80">G80 </option><option value="gv60">GV60 </option><option value="g70">G70 </option></select></div><div class="form-group"><label for="year">Select Year</label><select name="year" id="year"><option value="#">All Year</option><option value="2023">2023</option><option value="2022">2022</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option></select></div><div class="form-group"><button type="submit">Search</button></div></form></div></div><div data-v-442ad232="" class="header__search-box"><div class="header__search-close"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAAGXLeQ2AAAACXBIWXMAAAsSAAALEgHS3X78AAABa0lEQVRIiZVT7VHDMAx98fU/HaVMQDdpsRdgA9oNWEBHukk6AYzACGEC9xScIMtK4uiuH5af3tOXmxgjRtvxbwhh8DgIy2BOwuC9j3w7IPhLOvg/f6b4MYyImsGhI8ZzppiZ977XGvw7RIQQegBPUsOlw76gkuGS1sqolxp5DcrkvSy8SGzqofAVdctAS9UpcBTgX60yKVjSlmJWQ61tCmi89x2AFwA3Ijob7WTf51jsW/KfQgjtHBDAqyOibwDPOkADiaiVgzoA+EqX95TaBIQuUAVkQOgBATio81EeJrDK8WoV7QwgS1+sornPRdUzNdyY+WwB8bcTWVu3jTttXyf6ao59zVTdw6bujBhuwKlWRJMWmeO/WZ18lUuVLJDaG1UjUkNaZG5kNieySrpKLkR4Id+NqzsRHQ3/OvnSoJTNDt7q+WJPtwxebkv1oBJ+VcR6RIuktSLyEfEbH62tIRUkHLtPIh/J/QMAD3aPYG6CitQOAAAAAElFTkSuQmCC" alt=""></div><div class="search-box"><input id="input" type="text" class="search-box__input"><label for="input" class="search-box__text"> Search </label></div></div><div data-v-442ad232="" class="header__language"><div class="language-box"><a href="http://localhost:8080/main#" class="language-close"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAAGXLeQ2AAAACXBIWXMAAAsSAAALEgHS3X78AAABa0lEQVRIiZVT7VHDMAx98fU/HaVMQDdpsRdgA9oNWEBHukk6AYzACGEC9xScIMtK4uiuH5af3tOXmxgjRtvxbwhh8DgIy2BOwuC9j3w7IPhLOvg/f6b4MYyImsGhI8ZzppiZ977XGvw7RIQQegBPUsOlw76gkuGS1sqolxp5DcrkvSy8SGzqofAVdctAS9UpcBTgX60yKVjSlmJWQ61tCmi89x2AFwA3Ijob7WTf51jsW/KfQgjtHBDAqyOibwDPOkADiaiVgzoA+EqX95TaBIQuUAVkQOgBATio81EeJrDK8WoV7QwgS1+sornPRdUzNdyY+WwB8bcTWVu3jTttXyf6ao59zVTdw6bujBhuwKlWRJMWmeO/WZ18lUuVLJDaG1UjUkNaZG5kNieySrpKLkR4Id+NqzsRHQ3/OvnSoJTNDt7q+WJPtwxebkv1oBJ+VcR6RIuktSLyEfEbH62tIRUkHLtPIh/J/QMAD3aPYG6CitQOAAAAAElFTkSuQmCC" alt=""></a><h2 class="language-header"> Choose your region or language </h2><div class="language"><div><h3 class="language__region">Africa</h3><ul><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/es_ES">Spanish(Europe)</a></li><li><a href="http://localhost:8080/es_GN">Spanish</a></li><li><a href="http://localhost:8080/ar_AE">Arabic</a></li><li><a href="http://localhost:8080/pt_PT">Portuguese(Europe)</a></li><li><a href="http://localhost:8080/en_GN">English</a></li></ul></div><div><h3 class="language__region">Asia &amp; Pacific</h3><ul><li><a href="http://localhost:8080/en_AU">English(Australia)</a></li><li><a href="http://localhost:8080/zh_CN">Chinese</a></li><li><a href="http://localhost:8080/pt_PT">Portuguese(Europe)</a></li><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/en_US">English(USA)</a></li><li><a href="http://localhost:8080/ja_JP">Japanese</a></li><li><a href="http://localhost:8080/ko_KR">Korean</a></li></ul></div><div><h3 class="language__region">Central &amp; South America</h3><ul><li><a href="http://localhost:8080/en_GN">English</a></li><li><a href="http://localhost:8080/es_ES">Spanish(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/es_GN">Spanish</a></li><li><a href="http://localhost:8080/pt_BR">Portuguese(Brazil)</a></li><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/es_MX">Spanish(Mexico)</a></li></ul></div><div><h3 class="language__region">Europe</h3><ul><li><a href="http://localhost:8080/de_DE">German</a></li><li><a href="http://localhost:8080/da_DK">Danish</a></li><li><a href="http://localhost:8080/fi_FI">Finnish</a></li><li><a href="http://localhost:8080/lv_LV">Latvian</a></li><li><a href="http://localhost:8080/lt_LT">Lithuanian</a></li><li><a href="http://localhost:8080/et_EE">Estonian</a></li><li><a href="http://localhost:8080/it_IT">Italian</a></li><li><a href="http://localhost:8080/pt_PT">Portuguese(Europe)</a></li><li><a href="http://localhost:8080/sv_SE">Swedish</a></li><li><a href="http://localhost:8080/fr_FR">French(Europe)</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li><li><a href="http://localhost:8080/en_GN">English</a></li><li><a href="http://localhost:8080/bg_BG">Bulgarian</a></li><li><a href="http://localhost:8080/ru_RU">Russian</a></li><li><a href="http://localhost:8080/es_ES">Spanish(Europe)</a></li><li><a href="http://localhost:8080/es_GN">Spanish</a></li><li><a href="http://localhost:8080/nb_NO">Norwegian</a></li><li><a href="http://localhost:8080/nl_NL">Dutch</a></li><li><a href="http://localhost:8080/en-GB">English(UK)</a></li></ul></div><div><h3 class="language__region">Middle East</h3><ul><li><a href="http://localhost:8080/en_GN">English</a></li><li><a href="http://localhost:8080/ar_AE">Arabic</a></li><li><a href="http://localhost:8080/fr_GN">French</a></li></ul></div><div><h3 class="language__region">North America</h3><ul><li><a href="http://localhost:8080/en_US">English(USA)</a></li><li><a href="http://localhost:8080/en_CA">English(Canada)</a></li><li><a href="http://localhost:8080/fr_CA">French(Canada)</a></li></ul></div></div></div></div></div><div data-v-442ad232="" class="main-body"><div data-v-442ad232="" class="container"><div data-v-442ad232="" class="header-text center-me"><h1> New Owner's Manual </h1></div><div data-v-442ad232="" class="owl-carousel car-box"><div class="car"><div class="car__info-box"><div class="car__info-box--a"><h3>  </h3></div><div class="car__info-box--b"><span></span><span class="spacer-s">|</span><span>Spanish(Europe)</span><span class="spacer-s">|</span><span>2022</span></div></div><div class="car__image-box"><img src="http://localhost:8080/img/GV60.377e65fe.png" alt=""></div><div class="car__manual-box"><div class="car-manual car-manual--pdf"><span>PDF</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></div><div class="car-manual car-manual--web"><span>Web</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></div></div></div><div class="car"><div class="car__info-box"><div class="car__info-box--a"><h3> IONIQ 6 </h3></div><div class="car__info-box--b"><span>IONIQ 6</span><span class="spacer-s">|</span><span>Spanish(Europe)</span><span class="spacer-s">|</span><span>2023</span></div></div><div class="car__image-box"><img src="http://localhost:8080/img/GV60.377e65fe.png" alt=""></div><div class="car__manual-box"><div class="car-manual car-manual--pdf"><span>PDF</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></div><div class="car-manual car-manual--web"><span>Web</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAHOsAdPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQokY2RWxHCMBBFTxn+KQ6QUBTQOkBCJSABCUioBFAAOKiUOrjMLdkhhH5wZtLd7CO5myKpkSQ7D9tq3kG3Am6YSEkaXW/HtP64rAJ6YF+9e2favC/WIGly65oPA9Ck1TrqY65AzTfe96QjgnM4S/cpJOZY4hZ4rhaCE3CIRJMFCWXejMWRBycewC7NkzOkuGc7AZuU60JxqTp/LeNXP8ajl9MEvsVDhGZbK+ost2y6LBTHkPbvtmWTtftX58W/SKqT5n/oJfECFr7v8wRehHwAAAAASUVORK5CYII=" alt=""></div></div></div></div></div></div><footer data-v-442ad232="" class="footer"><div class="container"><div class="footer-info center-me"><div class="footer-info__logo-box center-me"><img src="data:image/png;base64,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" alt=""></div><span>Copyright 2022 Hyundai Motor Company</span><span>All Rights Reserved.</span></div></div></footer></main></body></div>
+
+
+<gdiv class="ginger-extension-writer" style="display: none;"><gdiv class="ginger-extension-writer-frame"><iframe src="./hmc_pou_files/index.html"></iframe></gdiv></gdiv></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

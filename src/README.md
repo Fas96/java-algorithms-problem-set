@@ -3,7 +3,7 @@
 From early 2022 I have been solving algorithm problems to improve my problem-solving skills.
 <br/> The joy when all my code passes all the test cases `:blush:`
 Initially,solving algorithms with java was taking long time with long lines of code.
-I switched to python and I can  say solution to alg-problems were implemented in really short lines 
+I switched to python and I can  say solution to algo-problems were implemented in really short lines 
 of codes.
 
 I have come to realization that, in order to improve a career as a java developer, then  

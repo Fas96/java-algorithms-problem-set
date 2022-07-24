@@ -115,47 +115,6 @@
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/SwapBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/smallestNonconstructibleValue/SmallestNonconstructibleValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a118PascalsTriangle/a118PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/(4) Binary Tree Level Order Traversal - LeetCode.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/SONATA.7472d733.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/chunk-vendors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/hmc_pou_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/tree1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a200NumberofIslands/a200NumberofIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a240Searcha2DMatrixII/a240Searcha2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c315CountofSmallerNumbersAfterSelf/LCCSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c315CountofSmallerNumbersAfterSelf/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/template/MacroTemplates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a102BinaryTreeLevelOrderTraversal/a102BinaryTreeLevelOrderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a105ConstructBinaryTreefromPreorderandInorderTraversal/a105ConstructBinaryTreefromPreorderandInorderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a473MatchstickstoSquare/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/easy$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/easy.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
@@ -166,7 +125,10 @@
       <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Steven Halim, Felix Halim - Competitive Programming 3_ The New Lower Bound of Programming Contests-Lulu.com (2013).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Steven Halim, Felix Halim, Suhendry Effendy - Competitive Programming 4_ The Lower Bound of Programming Contests in the 2020s. 1-Lulu.com (2018).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +143,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -314,7 +276,7 @@
       <workItem from="1658142788046" duration="13242000" />
       <workItem from="1658208776042" duration="1189000" />
       <workItem from="1658534834357" duration="5434000" />
-      <workItem from="1658646053826" duration="2045000" />
+      <workItem from="1658646053826" duration="2366000" />
     </task>
     <servers />
   </component>

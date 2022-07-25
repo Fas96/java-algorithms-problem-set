@@ -1,7 +1,9 @@
 package template;
 
 /*
-
+Templates makes it easy to refer or
+solve problems if we know what is the needed algorithm to implement a problem.
+This template is a copy from  <a >youtube Channel</a>
  */
 import static java.lang.Math.max;
 import static java.lang.Math.min;

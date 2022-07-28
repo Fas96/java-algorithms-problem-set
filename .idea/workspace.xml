@@ -115,16 +115,8 @@
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/FindingTopKElements/FindingTopKElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/FindtheKthSmallestElementinTwoSortedArrays/FindtheKthSmallestElementinTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/LargestPowerof2ThatIsLessThantheGivenNumber/LargestPowerof2ThatIsLessThantheGivenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/ReversingLinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/ReversingLinkedList/ReversingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/RockPaperScissorsGameinJava/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/RockPaperScissorsGameinJava/RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/perfectSquares/BinarySearchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baeldung/perfectSquares/PerfectSquaresIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a34FindFirstandLastPositionofElementinSortedArray/a34FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a242ValidAnagram/a242ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a236LowestCommonAncestorofaBinaryTree/a236LowestCommonAncestorofaBinaryTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
@@ -138,22 +130,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/template/MacroTemplates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/template/MacroTemplates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a240Searcha2DMatrixII/a240Searcha2DMatrixII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a240Searcha2DMatrixII/a240Searcha2DMatrixII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/BitSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/BitSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/DSU.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/DSU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/FenwickTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/FenwickTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/LCA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/LCA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/LazySegTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/LazySegTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/MacroTemplates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/MacroTemplates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/MaxFlow$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/MaxFlow$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/MaxFlow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/MaxFlow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/RangeBit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/RangeBit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/SparseTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/SparseTable.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +170,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.a34FindFirstandLastPositionofElementinSortedArray.whenGiven_searchRangeTargetFound">
+  <component name="RunManager" selected="JUnit.a242ValidAnagram.whenGivenTwoString_ifStringEqualAnagramFound">
     <configuration name="FindingTopKElements.whenGivenListIntegers_findTopKPriorityQueueFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
@@ -211,33 +187,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindtheKthSmallestElementinTwoSortedArrays.randomTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="a242ValidAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baeldung.FindtheKthSmallestElementinTwoSortedArrays.*" />
+          <option name="PATTERN" value="leetcode.Aeasy.a242ValidAnagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="baeldung.FindtheKthSmallestElementinTwoSortedArrays" />
-      <option name="MAIN_CLASS_NAME" value="baeldung.FindtheKthSmallestElementinTwoSortedArrays.FindtheKthSmallestElementinTwoSortedArrays" />
-      <option name="METHOD_NAME" value="randomTests" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="leetcode.Aeasy.a242ValidAnagram" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Aeasy.a242ValidAnagram.a242ValidAnagram" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestPowerof2ThatIsLessThantheGivenNumber.givenIntegerWhen_findLargestPowerOf2LessThanTheGivenNumberUsingBitwiseAnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="a242ValidAnagram.whenGivenTwoString_ifStringEqualAnagramFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baeldung.LargestPowerof2ThatIsLessThantheGivenNumber.*" />
+          <option name="PATTERN" value="leetcode.Aeasy.a242ValidAnagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="baeldung.LargestPowerof2ThatIsLessThantheGivenNumber" />
-      <option name="MAIN_CLASS_NAME" value="baeldung.LargestPowerof2ThatIsLessThantheGivenNumber.LargestPowerof2ThatIsLessThantheGivenNumber" />
-      <option name="METHOD_NAME" value="givenIntegerWhen_findLargestPowerOf2LessThanTheGivenNumberUsingBitwiseAnd" />
+      <option name="PACKAGE_NAME" value="leetcode.Aeasy.a242ValidAnagram" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Aeasy.a242ValidAnagram.a242ValidAnagram" />
+      <option name="METHOD_NAME" value="whenGivenTwoString_ifStringEqualAnagramFound" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.a242ValidAnagram.whenGivenTwoString_ifStringEqualAnagramFound" />
+        <item itemvalue="JUnit.a242ValidAnagram" />
         <item itemvalue="JUnit.a34FindFirstandLastPositionofElementinSortedArray.whenGiven_searchRangeTargetFound" />
         <item itemvalue="JUnit.a34FindFirstandLastPositionofElementinSortedArray" />
         <item itemvalue="JUnit.FindingTopKElements.whenGivenListIntegers_findTopKPriorityQueueFound" />
-        <item itemvalue="JUnit.FindtheKthSmallestElementinTwoSortedArrays.randomTests" />
-        <item itemvalue="JUnit.LargestPowerof2ThatIsLessThantheGivenNumber.givenIntegerWhen_findLargestPowerOf2LessThanTheGivenNumberUsingBitwiseAnd" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +277,9 @@
       <workItem from="1658142788046" duration="13242000" />
       <workItem from="1658208776042" duration="1189000" />
       <workItem from="1658534834357" duration="5434000" />
-      <workItem from="1658646053826" duration="16442000" />
+      <workItem from="1658646053826" duration="16715000" />
+      <workItem from="1658807380577" duration="609000" />
+      <workItem from="1658966780278" duration="858000" />
     </task>
     <servers />
   </component>

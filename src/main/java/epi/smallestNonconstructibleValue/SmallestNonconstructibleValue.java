@@ -44,7 +44,7 @@ public class SmallestNonconstructibleValue {
       }
 
     }
-    System.out.println(A);
+
     return A;
   }
 

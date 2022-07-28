@@ -115,7 +115,6 @@
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a637AverageofLevelsinBinaryTree/a637AverageofLevelsinBinaryTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
@@ -130,7 +129,6 @@
       <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/SwapBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/SwapBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/epi/smallestNonconstructibleValue/SmallestNonconstructibleValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epi/smallestNonconstructibleValue/SmallestNonconstructibleValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +169,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.SwapBits.multipleUsingBits_Gives">
+  <component name="RunManager" selected="JUnit.SwapBits.whenGivenADigit_CheckLengthIfGiven">
     <configuration name="SwapBits.bitSwaps_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
@@ -199,6 +197,22 @@
       <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
       <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.SwapBits" />
       <option name="METHOD_NAME" value="multipleUsingBits_Gives" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapBits.whenGivenADigit_CheckLengthIfGiven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epi.PrimitiveTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
+      <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.SwapBits" />
+      <option name="METHOD_NAME" value="whenGivenADigit_CheckLengthIfGiven" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -235,29 +249,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a34FindFirstandLastPositionofElementinSortedArray.whenGiven_searchRangeTargetFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a34FindFirstandLastPositionofElementinSortedArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a34FindFirstandLastPositionofElementinSortedArray" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a34FindFirstandLastPositionofElementinSortedArray.a34FindFirstandLastPositionofElementinSortedArray" />
-      <option name="METHOD_NAME" value="whenGiven_searchRangeTargetFound" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SwapBits.whenGivenADigit_CheckLengthIfGiven" />
         <item itemvalue="JUnit.SwapBits.multipleUsingBits_Gives" />
         <item itemvalue="JUnit.SwapBits.bitSwaps_Test" />
         <item itemvalue="JUnit.a242ValidAnagram.whenGivenTwoString_ifStringEqualAnagramFound" />
         <item itemvalue="JUnit.a242ValidAnagram" />
-        <item itemvalue="JUnit.a34FindFirstandLastPositionofElementinSortedArray.whenGiven_searchRangeTargetFound" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +281,7 @@
       <workItem from="1658807380577" duration="609000" />
       <workItem from="1658966780278" duration="1738000" />
       <workItem from="1658979098680" duration="2357000" />
-      <workItem from="1659017680758" duration="2433000" />
+      <workItem from="1659017680758" duration="3143000" />
     </task>
     <servers />
   </component>

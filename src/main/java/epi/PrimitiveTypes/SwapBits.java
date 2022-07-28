@@ -21,6 +21,13 @@ public class SwapBits {
   public void multipleUsingBits_Gives(){
     assertEquals(10,multiply(2,5));
   }
+  @Test
+  public  void whenGivenADigit_CheckLengthIfGiven(){
+    //we can count the number of digits
+    assertEquals(3,(int) Math.log10(201)+1);
+    // we can get the most significant
+    assertEquals(1,151751/(int)Math.pow(10,(int) Math.log10(151751)));
+  }
 
   //The time complexity is 0(1), independent of the word size.
 
@@ -117,6 +124,12 @@ public class SwapBits {
     return x<0?-result:result;
   }
 
+
+  //The number of digits, n, in the input's string
+  // representation is the log (base 10) of the input value, x
+  //To be precise, n = [log10 x] + 1
+  //the least significant digit is x mod 10,
+  // and the most significant digit is x/10pow(n-1).
 
 
 

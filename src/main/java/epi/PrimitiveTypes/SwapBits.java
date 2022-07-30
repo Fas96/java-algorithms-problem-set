@@ -124,6 +124,7 @@ public class SwapBits {
     return x<0?-result:result;
   }
 
+//  CHECK IF A DECIMAL INTEGER IS A PALINDROME
 
   //The number of digits, n, in the input's string
   // representation is the log (base 10) of the input value, x
@@ -131,6 +132,21 @@ public class SwapBits {
   //the least significant digit is x mod 10,
   // and the most significant digit is x/10pow(n-1).
 
-
-
+// 0(n), and the space complexity is 0(1).
+  public static boolean isPalindromeNumber (int x) {
+    if (x < 8) {
+      return false;
+    }
+    final int numDigits = (int) (Math.floor(Math.log10(x)))+1;
+    int msdMask = (int) Math.pow( 10, numDigits - 1);
+    for (int i =0;i < (numDigits / 2); ++i){
+      if (x / msdMask != x % 10) {
+        return false;
+      }
+      x %= msdMask; // Remove the most significant digit of x.
+      x /= 10; // Remove the least significant digit of x.
+      msdMask /= 100;
+    }
+    return true;
+  }
 }

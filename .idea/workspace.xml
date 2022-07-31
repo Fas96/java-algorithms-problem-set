@@ -115,11 +115,8 @@
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/template/CollectionHelper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
@@ -133,6 +130,11 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w304/Question2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w304/Question2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +180,23 @@
       <recent name="leetcode.Eweekly.w304" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Question2.sol_test">
+  <component name="RunManager" selected="JUnit.CollectionHelper.givenArrayList_FindAverage">
+    <configuration name="CollectionHelper.givenArrayList_FindAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="template" />
+      <option name="MAIN_CLASS_NAME" value="template.CollectionHelper" />
+      <option name="METHOD_NAME" value="givenArrayList_FindAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Question1.sol_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
@@ -211,17 +229,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapBits.whenGivenADigit_CheckLengthIfGiven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SegmentTree.testIfSeqmentTreeIsBuilt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="epi.PrimitiveTypes.*" />
+          <option name="PATTERN" value="leetcode.Bmedium.a307RangeSumQueryMutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
-      <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.SwapBits" />
-      <option name="METHOD_NAME" value="whenGivenADigit_CheckLengthIfGiven" />
+      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a307RangeSumQueryMutable" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a307RangeSumQueryMutable.SegmentTree" />
+      <option name="METHOD_NAME" value="testIfSeqmentTreeIsBuilt" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -243,29 +261,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a916WordSubsets.givenStringList_WithSubsetTestListReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a916WordSubsets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a916WordSubsets" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a916WordSubsets.a916WordSubsets" />
-      <option name="METHOD_NAME" value="givenStringList_WithSubsetTestListReturn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CollectionHelper.givenArrayList_FindAverage" />
+        <item itemvalue="JUnit.SegmentTree.testIfSeqmentTreeIsBuilt" />
         <item itemvalue="JUnit.Question2.sol_test" />
         <item itemvalue="JUnit.Question1.sol_test" />
         <item itemvalue="JUnit.a307RangeSumQueryMutable.giveenListofArraysWeCanMake" />
-        <item itemvalue="JUnit.a916WordSubsets.givenStringList_WithSubsetTestListReturn" />
-        <item itemvalue="JUnit.SwapBits.whenGivenADigit_CheckLengthIfGiven" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +297,7 @@
       <workItem from="1659053350527" duration="818000" />
       <workItem from="1659102547938" duration="612000" />
       <workItem from="1659146808567" duration="3430000" />
-      <workItem from="1659177629640" duration="6959000" />
+      <workItem from="1659177629640" duration="13446000" />
     </task>
     <servers />
   </component>

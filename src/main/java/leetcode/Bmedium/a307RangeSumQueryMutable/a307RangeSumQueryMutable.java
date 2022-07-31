@@ -13,7 +13,11 @@ public class a307RangeSumQueryMutable {
      int [] nums;
 
     public a307RangeSumQueryMutable(int[] nums) {
-      this.nums=nums;
+      int n = nums.length;
+      int height = (int)(Math.log(n)/Math.log(2)) + 1;
+      int tree_nodes = (int) Math.pow(2, height + 1);
+      SegmentTree ob = new SegmentTree(tree_nodes);
+      ob.build(nums, 0, 0, n - 1);
     }
 
     public void update(int index, int val) {

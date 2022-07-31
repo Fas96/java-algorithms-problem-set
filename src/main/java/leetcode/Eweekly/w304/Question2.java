@@ -19,6 +19,10 @@ public class Question2 {
 //    assertEquals(new int[]{1,3},getItemsNotUsed( new int[]{1,2,3},new int[]{2}));
     assertEquals(1, maximumGroups(new int[]{8,8}));
   }
+  @Test
+  public void testing(){
+    assertEquals(new int[]{2,2,2,2},tes(new int[]{2,2,2,2}));
+  }
 
 
   //get the  max
@@ -49,6 +53,9 @@ public class Question2 {
         .filter(i -> i != index)
         .map(i -> arr[i])
         .toArray();
+  }
+  int[] tes(int...integers){
+    return integers;
   }
   int getMax(int [] arrs){
     return Arrays.stream(Arrays.stream(arrs).toArray()).max().getAsInt();

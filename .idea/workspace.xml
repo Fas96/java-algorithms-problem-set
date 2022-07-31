@@ -115,8 +115,11 @@
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a890FindandReplacePattern/a890FindandReplacePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a916WordSubsets/a916WordSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
@@ -130,7 +133,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/SwapBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/SwapBits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,34 +173,39 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.a916WordSubsets.givenStringList_WithSubsetTestListReturn">
-    <configuration name="SwapBits.bitSwaps_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode.Eweekly.w304" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Question2.sol_test">
+    <configuration name="Question1.sol_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="epi.PrimitiveTypes.*" />
+          <option name="PATTERN" value="leetcode.Eweekly.w304.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
-      <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.SwapBits" />
-      <option name="METHOD_NAME" value="bitSwaps_Test" />
+      <option name="PACKAGE_NAME" value="leetcode.Eweekly.w304" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Eweekly.w304.Question1" />
+      <option name="METHOD_NAME" value="sol_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapBits.multipleUsingBits_Gives" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Question2.sol_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="epi.PrimitiveTypes.*" />
+          <option name="PATTERN" value="leetcode.Eweekly.w304.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
-      <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.SwapBits" />
-      <option name="METHOD_NAME" value="multipleUsingBits_Gives" />
+      <option name="PACKAGE_NAME" value="leetcode.Eweekly.w304" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Eweekly.w304.Question2" />
+      <option name="METHOD_NAME" value="sol_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,17 +227,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a242ValidAnagram.whenGivenTwoString_ifStringEqualAnagramFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="a307RangeSumQueryMutable.giveenListofArraysWeCanMake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Aeasy.a242ValidAnagram.*" />
+          <option name="PATTERN" value="leetcode.Bmedium.a307RangeSumQueryMutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Aeasy.a242ValidAnagram" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Aeasy.a242ValidAnagram.a242ValidAnagram" />
-      <option name="METHOD_NAME" value="whenGivenTwoString_ifStringEqualAnagramFound" />
+      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a307RangeSumQueryMutable" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a307RangeSumQueryMutable.a307RangeSumQueryMutable" />
+      <option name="METHOD_NAME" value="giveenListofArraysWeCanMake" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -254,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Question2.sol_test" />
+        <item itemvalue="JUnit.Question1.sol_test" />
+        <item itemvalue="JUnit.a307RangeSumQueryMutable.giveenListofArraysWeCanMake" />
         <item itemvalue="JUnit.a916WordSubsets.givenStringList_WithSubsetTestListReturn" />
         <item itemvalue="JUnit.SwapBits.whenGivenADigit_CheckLengthIfGiven" />
-        <item itemvalue="JUnit.SwapBits.multipleUsingBits_Gives" />
-        <item itemvalue="JUnit.SwapBits.bitSwaps_Test" />
-        <item itemvalue="JUnit.a242ValidAnagram.whenGivenTwoString_ifStringEqualAnagramFound" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +294,8 @@
       <workItem from="1659017680758" duration="3550000" />
       <workItem from="1659053350527" duration="818000" />
       <workItem from="1659102547938" duration="612000" />
-      <workItem from="1659146808567" duration="3147000" />
+      <workItem from="1659146808567" duration="3430000" />
+      <workItem from="1659177629640" duration="6959000" />
     </task>
     <servers />
   </component>

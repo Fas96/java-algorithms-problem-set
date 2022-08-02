@@ -10,5 +10,5 @@ public class Question3 {
   public  void sol_test(){
     assertEquals("faaas","fas");
   }
-
+//  where each node has at most one outgoing edge.
 }

@@ -115,8 +115,8 @@
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/template/CollectionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a743NetworkDelayTime/a743NetworkDelayTime.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
@@ -129,12 +129,10 @@
       <change afterPath="$PROJECT_DIR$/../materials/books/competitiveProgramming/Steven Halim, Felix Halim, Suhendry Effendy - Competitive Programming 4_ The Lower Bound of Programming Contests in the 2020s. 1-Lulu.com (2018).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a307RangeSumQueryMutable/a307RangeSumQueryMutable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w304/Question2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w304/Question2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/template/CollectionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/CollectionHelper.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +178,7 @@
       <recent name="leetcode.Eweekly.w304" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CollectionHelper.givenArrayList_FindAverage">
+  <component name="RunManager" selected="JUnit.a378KthSmallestElementinaSortedMatrix.givenMatrix_kthSmallest_ISFOUND">
     <configuration name="CollectionHelper.givenArrayList_FindAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
@@ -192,22 +190,6 @@
       <option name="PACKAGE_NAME" value="template" />
       <option name="MAIN_CLASS_NAME" value="template.CollectionHelper" />
       <option name="METHOD_NAME" value="givenArrayList_FindAverage" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question1.sol_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Eweekly.w304.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Eweekly.w304" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Eweekly.w304.Question1" />
-      <option name="METHOD_NAME" value="sol_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -245,29 +227,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a307RangeSumQueryMutable.giveenListofArraysWeCanMake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="a378KthSmallestElementinaSortedMatrix.givenMatrix_kthSmallest_ISFOUND" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a307RangeSumQueryMutable.*" />
+          <option name="PATTERN" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a307RangeSumQueryMutable" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a307RangeSumQueryMutable.a307RangeSumQueryMutable" />
-      <option name="METHOD_NAME" value="giveenListofArraysWeCanMake" />
+      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix.a378KthSmallestElementinaSortedMatrix" />
+      <option name="METHOD_NAME" value="givenMatrix_kthSmallest_ISFOUND" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="a743NetworkDelayTime.sol_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Bmedium.a743NetworkDelayTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a743NetworkDelayTime" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a743NetworkDelayTime.a743NetworkDelayTime" />
+      <option name="METHOD_NAME" value="sol_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.a378KthSmallestElementinaSortedMatrix.givenMatrix_kthSmallest_ISFOUND" />
+        <item itemvalue="JUnit.a743NetworkDelayTime.sol_test" />
         <item itemvalue="JUnit.CollectionHelper.givenArrayList_FindAverage" />
         <item itemvalue="JUnit.SegmentTree.testIfSeqmentTreeIsBuilt" />
         <item itemvalue="JUnit.Question2.sol_test" />
-        <item itemvalue="JUnit.Question1.sol_test" />
-        <item itemvalue="JUnit.a307RangeSumQueryMutable.giveenListofArraysWeCanMake" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +300,9 @@
       <workItem from="1659053350527" duration="818000" />
       <workItem from="1659102547938" duration="612000" />
       <workItem from="1659146808567" duration="3430000" />
-      <workItem from="1659177629640" duration="14060000" />
+      <workItem from="1659177629640" duration="14958000" />
+      <workItem from="1659353236867" duration="3585000" />
+      <workItem from="1659421179755" duration="709000" />
     </task>
     <servers />
   </component>

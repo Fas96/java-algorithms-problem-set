@@ -115,10 +115,23 @@
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fas.code/fas.code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CoverUsage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/ArrayManipulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/rectangleintersection/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/MaxAdvancingThroughAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/MultiplyTwoArbitraryPrecissionIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/TheDutchNationalFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a111MinimumDepthofBinaryTree/a111MinimumDepthofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a13RomantoInteger/a13RomantoInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a387FirstUniqueCharacterinaString/a387FirstUniqueCharacterinaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a729MyCalendarI/MyCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a729MyCalendarI/a729MyCalendarI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c30SubstringwithConcatenationofAllWords/c30SubstringwithConcatenationofAllWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/(Elements of Programming Interviews) Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Java_ The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016).pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../materials/books/Interviews/Adnan Aziz, Tsung-Hsien Lee, Amit Prakash - Elements of Programming Interviews in Python_ The Insiders’ Guide-Createspace Independent Publishing Platform (2017).djvu" afterDir="false" />
@@ -132,6 +145,10 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algo/tree/bst/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algo/tree/bst/bst.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epi/arrays/ArrayManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/ArrayManipulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/template/CollectionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/template/CollectionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/epi/arrays/ArrayManipulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/epi/arrays/ArrayManipulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/template/CollectionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/CollectionHelper.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,69 +191,87 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode.Eweekly.w305" />
+      <recent name="leetcode.Fbiweeklybiweeklycontest84" />
       <recent name="leetcode.Eweekly.w304" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayManipulator.evenOddOrder_IFExistOrEven">
-    <configuration name="ArrayManipulator.evenOddOrder_IFExistOrEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.a387FirstUniqueCharacterinaString.test_firstUniqChar">
+    <configuration name="a13RomantoInteger.testRomman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="epi.arrays.*" />
+          <option name="PATTERN" value="leetcode.Aeasy.a13RomantoInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="epi.arrays" />
-      <option name="MAIN_CLASS_NAME" value="epi.arrays.ArrayManipulator" />
-      <option name="METHOD_NAME" value="evenOddOrder_IFExistOrEven" />
+      <option name="PACKAGE_NAME" value="leetcode.Aeasy.a13RomantoInteger" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Aeasy.a13RomantoInteger.a13RomantoInteger" />
+      <option name="METHOD_NAME" value="testRomman" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a378KthSmallestElementinaSortedMatrixTest.testKthSmallest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="a387FirstUniqueCharacterinaString.test_firstUniqChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix.*" />
+          <option name="PATTERN" value="leetcode.Aeasy.a387FirstUniqueCharacterinaString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix.a378KthSmallestElementinaSortedMatrixTest" />
-      <option name="METHOD_NAME" value="testKthSmallest" />
+      <option name="PACKAGE_NAME" value="leetcode.Aeasy.a387FirstUniqueCharacterinaString" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Aeasy.a387FirstUniqueCharacterinaString.a387FirstUniqueCharacterinaString" />
+      <option name="METHOD_NAME" value="test_firstUniqChar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a378KthSmallestElementinaSortedMatrix.givenMatrix_kthSmallest_ISFOUND" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="c30SubstringwithConcatenationofAllWords.findSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix.*" />
+          <option name="PATTERN" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix.a378KthSmallestElementinaSortedMatrix" />
-      <option name="METHOD_NAME" value="givenMatrix_kthSmallest_ISFOUND" />
+      <option name="PACKAGE_NAME" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords.c30SubstringwithConcatenationofAllWords" />
+      <option name="METHOD_NAME" value="findSub" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a743NetworkDelayTime.sol_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="c30SubstringwithConcatenationofAllWords.permTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a743NetworkDelayTime.*" />
+          <option name="PATTERN" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a743NetworkDelayTime" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a743NetworkDelayTime.a743NetworkDelayTime" />
-      <option name="METHOD_NAME" value="sol_test" />
+      <option name="PACKAGE_NAME" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords.c30SubstringwithConcatenationofAllWords" />
+      <option name="METHOD_NAME" value="permTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c30SubstringwithConcatenationofAllWords.permutateArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Chard.c30SubstringwithConcatenationofAllWords.c30SubstringwithConcatenationofAllWords" />
+      <option name="METHOD_NAME" value="permutateArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -247,22 +282,13 @@
       <option name="workspaceLocation" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="Write tests for method a378KthSmallestElementinaSortedMatrix.kthSmallest" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="java-algorithms" />
-      <settings run-config-name="Write tests for method a378KthSmallestElementinaSortedMatrix.kthSmallest" include-system-env-vars="true">
-        <jvm-args />
-        <selection-scope>method</selection-scope>
-        <selected-element key="leetcode.Bmedium.a378KthSmallestElementinaSortedMatrix.a378KthSmallestElementinaSortedMatrix.kthSmallest:([[II)I" />
-      </settings>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayManipulator.evenOddOrder_IFExistOrEven" />
-        <item itemvalue="JUnit.a378KthSmallestElementinaSortedMatrixTest.testKthSmallest" />
-        <item itemvalue="Diffblue Cover.Write tests for method a378KthSmallestElementinaSortedMatrix.kthSmallest" />
-        <item itemvalue="JUnit.a378KthSmallestElementinaSortedMatrix.givenMatrix_kthSmallest_ISFOUND" />
-        <item itemvalue="JUnit.a743NetworkDelayTime.sol_test" />
+        <item itemvalue="JUnit.a387FirstUniqueCharacterinaString.test_firstUniqChar" />
+        <item itemvalue="JUnit.a13RomantoInteger.testRomman" />
+        <item itemvalue="JUnit.c30SubstringwithConcatenationofAllWords.findSub" />
+        <item itemvalue="JUnit.c30SubstringwithConcatenationofAllWords.permTest" />
+        <item itemvalue="JUnit.c30SubstringwithConcatenationofAllWords.permutateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +321,14 @@
       <workItem from="1659177629640" duration="14958000" />
       <workItem from="1659353236867" duration="3585000" />
       <workItem from="1659421179755" duration="1404000" />
-      <workItem from="1659444135179" duration="2234000" />
+      <workItem from="1659444135179" duration="7077000" />
+      <workItem from="1659777843439" duration="14873000" />
+      <workItem from="1659958725363" duration="3078000" />
+      <workItem from="1660003796073" duration="636000" />
+      <workItem from="1660006597473" duration="597000" />
+      <workItem from="1660355173914" duration="12641000" />
+      <workItem from="1660609179333" duration="1654000" />
+      <workItem from="1660650350126" duration="1428000" />
     </task>
     <servers />
   </component>

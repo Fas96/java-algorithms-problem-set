@@ -29,4 +29,11 @@ public class ArrayManipulator {
     return A;
   }
 
+//  asList(more on this later),binarySearch(A, 641),copyOf(A),
+//  copyOfRange(A, 1,5), equals(A, B),
+//  fill(A, 42), find(A, 28),
+//  sort(A), sort(A,cmp), toString()
+
+//  Both Arrays and Collections have binarySearch() and sort() methods.
+
 }

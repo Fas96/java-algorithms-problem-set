@@ -4,6 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -26,6 +27,28 @@ public class CollectionHelper {
     map.put("shih tzu", 3);
     map.put("husky",    1);
     assertEquals(Arrays.asList("pug"),getKeysWithCertainValue(map,2));
+  }
+
+  private void printArray(int[] a){
+    for (int i = 0; i <a.length; i++) {
+      System.out.println(a[i]);
+    }
+  }
+  public void arrayPermutations(int[] arr,int cid){
+    if (cid== arr.length-1){
+      printArray(arr);
+      return;
+    }
+    for (int i = cid; i < arr.length; i++) {
+     swapArr(arr,i,cid+1);
+     arrayPermutations(arr,cid+1);
+      swapArr(arr,i,cid+1);
+    }
+  }
+  private void swapArr(int[] arr,int i,int j){
+    int temp=arr[i];
+    arr[i]=arr[j];
+    arr[j]=temp;
   }
 
   List<List<Object>> processBatchSplitKTimes(List<Object> list,int batchSize) {

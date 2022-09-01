@@ -4,57 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;algo&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a2379MinimumRecolorstoGetKConsecutiveBlackBlocks/a2379MinimumRecolorstoGetKConsecutiveBlackBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a383RansomNote/a383RansomNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a113PathSumII/113. Path SumII.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a113PathSumII/a113PathSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1143LongestCommonSubsequence/a1143LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a130SurroundedRegions/a130SurroundedRegions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1329SorttheMatrixDiagonally/a1329SorttheMatrixDiagonally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1338ReduceArraySizetoTheHalf/a1338ReduceArraySizetoTheHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a133CloneGraph/a133CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1448CountGoodNodesinBinaryTree/CountGoodNodes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1448CountGoodNodesinBinaryTree/a1448CountGoodNodesinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2380TimeNeededtoRearrangeaBinaryString/a2380TimeNeededtoRearrangeaBinaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2381ShiftingLettersII/a2381ShiftingLettersII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a322CoinChange/a322CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a659SplitArrayintoConsecutiveSubsequences/a659SplitArrayintoConsecutiveSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a869ReorderedPowerof2/a869ReorderedPowerof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c239SlidingWindowMaximum/c239SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c37SudokuSolver/c37SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c37SudokuSolver/soduko.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c72EditDistance/c72EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c871MinimumNumberofRefuelingStops/c871MinimumNumberofRefuelingStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c936StampingTheSequence/c936StampingTheSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/TopologicalSorting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/a210CourseScheduleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/e207CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/Trie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/bigO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/dijkstraAlgorithm/a743NetworkDelayTime/a743NetworkDelayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/a11ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/a977SquaresofaSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e167TwoSumIIInputArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e26RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e283MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/dijskstra/p1368MinimumCosttoMakeatLeastOneValidPathinaGrid/p1368MinimumCosttoMakeatLeastOneValidPathinaGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/practiceSet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/easy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/easy$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/easy.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;algo&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -265,6 +215,7 @@
       <workItem from="1661849915518" duration="3000" />
       <workItem from="1662002299243" duration="2242000" />
       <workItem from="1662012455626" duration="3254000" />
+      <workItem from="1662029133143" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -280,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660696718445</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;algo&quot;">
+      <created>1662029426447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662029426447</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,17 @@
+You need to know many algorithms (USACO teaches some of the basics which you MUST know).
+
+All kind of sorting algorithms
+How to handle bit-operations (See "tips, tricks and tweak")
+Complexity of well-known algorithms
+Graph (BFS, DFS,...)
+Maths (Number Theory)
+Geometry (Convex Hull, Interval tree,...)
+Greedy algorithm
+Dynamic algorithm
+others
+
+
+Graphs (bfs, dfs, flood fill algorithm, shortest path (diskja, floyd), tree, network flow)
+Dynamic algorithm, dictionary algorithm
+Geometry (need to know at least convex-hull, detect a point is inside a polygon, calculate the area of a polygon, etc.)
+Graphs, dynamic, ad-hoc, simulation, maths, geometry + dynamics, graphs + geometry, maths + dynamic, and so on

@@ -1,17 +1,14 @@
-package leetcode;
+package leetcode.Eweekly.w307;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class easy {
+public class q4 {
 
   @Test
   public  void sol_test(){
     assertEquals("faaas","fas");
   }
 
-  class Solution{
-
-  }
 }

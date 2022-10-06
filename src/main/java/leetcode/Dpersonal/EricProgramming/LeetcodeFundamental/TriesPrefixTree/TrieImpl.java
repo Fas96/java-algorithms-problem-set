@@ -30,6 +30,22 @@ public class TrieImpl {
     }
     return curNode.isWord;
   }
+  private boolean match(char[] chs, int k, TrieNode node) {
+    TrieNode curNode=root;
+    if (k == chs.length) return ! curNode.isWord;
+    if (chs[k] != '.') {
+      return curNode.children.get(chs[k])!= null && match(chs, k + 1,curNode.children.get(chs[k])  );
+    } else {
+      for (int i = 0; i < curNode.children.size(); i++) {
+        if (curNode.children.get(i) != null) {
+          if (match(chs, k + 1,curNode.children.get(i))) {
+            return true;
+          }
+        }
+      }
+    }
+    return false;
+  }
 
   public boolean startsWith(String prefix) {
     TrieNode curNode=root;

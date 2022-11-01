@@ -5,107 +5,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;algo&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/G.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerrank/easy/Breakingbestandworstrecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/demo/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/demo/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/demo/Q4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a557ReverseWordsinaStringIII/AF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a557ReverseWordsinaStringIII/a557ReverseWordsinaStringIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/1457. Pseudo-Palindromic Paths in a Binary Tree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/a1457PseudoPalindromicPathsinaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1578MinimumTimetoMakeRopeColorful/a1578MinimumTimetoMakeRopeColorful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1680ConcatenationofConsecutiveBinaryNumbers/a1680ConcatenationofConsecutiveBinaryNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1770MaximumScorefromPerformingMultiplicationOperations/a1770MaximumScorefromPerformingMultiplicationOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1770MaximumScorefromPerformingMultiplicationOperations/maxscore.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a17PacificAtlanticWaterFlow/a17PacificAtlanticWaterFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a19RemoveNthNodeFromEndofList/a19RemoveNthNodeFromEndofList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2007FindOriginalArrayFromDoubledArray/a2007FindOriginalArrayFromDoubledArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2368ReachableNodesWithRestrictions/a2368ReachableNodesWithRestrictions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2414LengthoftheLongestAlphabeticalContinuousSubstring/a2414LengthoftheLongestAlphabeticalContinuousSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2415ReverseOddLevelsofBinaryTree/a2415ReverseOddLevelsofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2419LongestSubarrayWithMaximumBitwiseAND/a2419LongestSubarrayWithMaximumBitwiseAND.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2AddTwoNumbers/a2AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a337HouseRobberIII/a337HouseRobberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a341FlattenNestedListIterator/a341FlattenNestedListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a347TopKFrequentElements/Cannot assign a value to final variable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a347TopKFrequentElements/a347TopKFrequentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a373FindKPairswithSmallestSums/a373FindKPairswithSmallestSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a378KSmallestElementinaSortedMatrix/a378KSmallestElementinaSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a386LexicographicalNumbers/a386LexicographicalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a393UTF8Validation/a393UTF8Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a393UTF8Validation/utf8validation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a419BattleshipsinaBoard/a419BattleshipsinaBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a429NaryTreeLevelOrderTraversal/a429NaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a430FlattenaMultilevelDoublyLinkedList/a430FlattenaMultilevelDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a437PathSumIII/a437PathSumIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a449SerializeandDeserializeBST/a449SerializeandDeserializeBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a508MostFrequentSubtreeSum/a508MostFrequentSubtreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a529Minesweeper/a529Minesweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a565ArrayNesting/a565ArrayNesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a609FindDuplicateFileinSystem/a609FindDuplicateFileinSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a658FindKClosestElements/a658FindKClosestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a718MaximumLengthofRepeatedSubarray/718.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a718MaximumLengthofRepeatedSubarray/a718MaximumLengthofRepeatedSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a75SortColors/a75SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a763PartitionLabels/a763PartitionLabels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a82RemoveDuplicatesfromSortedListII/a82RemoveDuplicatesfromSortedListII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a82RemoveDuplicatesfromSortedListII/remodeDuplicates.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a838PushDominoes/a838PushDominoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a90SubsetsII/a90SubsetsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a967NumbersWithSameConsecutiveDifferences/a967NumbersWithSameConsecutiveDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a981TimeBasedKeyValueStore/a981TimeBasedKeyValueStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a985SumofEvenNumbersAfterQueries/a985SumofEvenNumbersAfterQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a990SatisfiabilityofEqualityEquations/a990SatisfiabilityofEqualityEquations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c1383MaximumPerformanceofaTeam/c1383MaximumPerformanceofaTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c188BestTimetoBuyandSellStockIV/c188BestTimetoBuyandSellStockIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c23MergekSortedLists/c23MergekSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c2416SumofPrefixScoresofStrings/c2416SumofPrefixScoresofStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c2421NumberofGoodPaths/c2421NumberofGoodPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c336PalindromePairs/c336PalindromePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c42TrappingRainWater/c42TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c4MedianofTwoSortedArrays/c4MedianofTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c668KthSmallestNumberinMultiplicationTable/c668KthSmallestNumberinMultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c987VerticalOrderTraversalofaBinaryTree/c987VerticalOrderTraversalofaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/a310MinimumHeightTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e1004MaxConsecutiveOnesIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e159LongestSubstringwithAtMostTwoDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e209MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e3LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e424LongestRepeatingCharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e485MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e567PermutationinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/elongestsubstringwithatmostkdistinctcharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/Throttling.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/zombie.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/zombie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sedgewick/Introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a645SetMismatch/a645SetMismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a732MyCalendarIII/WhatIsTreeMap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a732MyCalendarIII/a732MyCalendarIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a841KeysandRooms/a841KeysandRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/c10RegularExpressionMatching.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/c10RegularExpressionMatching.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/jest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/AEasy/653. Two Sum IV - Input is a BST.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/1948. Delete Duplicate Folders in System.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoLogin.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoLogin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoRestApi.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoRestApi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/12. Integer to Roman.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/1335. Minimum Difficulty of a Job Schedule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/1480. Running Sum of 1d Array.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/1832. Check if the Sentence Is Pangram.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/2284. Sender With Largest Word Count.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/273. Integer to English Words.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/38. Count and Say.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/443. String Compression.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/547. Number of Provinces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/565. Array Nesting.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/6210. Minimize Maximum of Array.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/6211. Create Components With Same Value.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/692. Top K Frequent Words.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/724. Find Pivot Index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/821. Shortest Distance to a Character.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q1.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q2.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q3.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q4.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/a2438RangeProductQueriesofPowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/topKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/api/base.api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/api/classes.api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/api/content.api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/api/customModel.api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/api/upload.api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/api/webscript.api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/6227. Next Greater Element IV.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/1293. Shortest Path in a Grid with Obstacles Elimination.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6225. Odd String Difference.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6226. Destroy Sequential Targets.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6227. Next Greater Element IV.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6228. Words Within Two Edits of Dictionary.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/c10RegularExpressionMatching.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/c10RegularExpressionMatching.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/jest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1239. Maximum Length of a Concatenated String with Unique Characters.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1328. Break a Palindrome.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1328. Break a Palindrome.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1531. String Compression II.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1531. String Compression IIDP.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1856. Maximum Subarray Min-Product.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1856. Maximum Subarray Min-Product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/19. Remove Nth Node From End of List.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/2095. Delete the Middle Node of a Linked List.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/219. Contains Duplicate II.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/220. Contains Duplicate III.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/237. Delete Node in a Linked List.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/2434. Using a Robot to Print the Lexicographically Smallest String.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/334. Increasing Triplet Subsequence.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6200. The Employee That Worked on the Longest Task.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6201. Find The Original Array of Prefix Xor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6202. Using a Robot to Print the Lexicographically Smallest String.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6203. Paths in Matrix Whose Sum Is Divisible by K.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/91. Decode Ways.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/91. Decode Ways.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/976. Largest Perimeter Triangle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/1662. Check If Two String Arrays are Equivalent.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/2136. Earliest Possible Day of Full Bloom.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/2446. Determine if Two Events Have Conflict.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/49. Group Anagrams.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/523. Continuous Subarray Sum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/835. Image Overlap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/1706. Where Will the Ball Fall.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6220. Average Value of Even Numbers That Are Divisible by Three.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6221. Most Popular Video Creator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6222. Minimum Addition to Make Integer Beautiful.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6223. Height of Binary Tree After Subtree Removal Queries.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/766. Toeplitz Matrix.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/FileFolderServiceImpl.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sedgewick/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sedgewick/code/Introduction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +127,9 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Python Script" />
         <option value="Class" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -139,13 +151,15 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/leetcode/Dpersonal/EricProgramming&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/leetcode/typescript/CHard/bw90/typescript&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/leetcode/typescript/CHard/node_modules/jest&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/leetcode/typescript/CHard/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -154,95 +168,95 @@
       <recent name="kakao.a2022.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming" />
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript" />
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard" />
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript" />
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89" />
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90" />
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard" />
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/AEasy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode.Eweekly.w317" />
+      <recent name="leetcode.typescript.CHard.bw90.java" />
+      <recent name="leetcode.Eweekly.w314" />
       <recent name="kakao.a2022.test" />
       <recent name="leetcode.Eweekly.W309" />
-      <recent name="leetcode.Fbiweekly.BW86" />
-      <recent name="atcoder.abc267" />
-      <recent name="leetcode.Eweekly.w307" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.a2368ReachableNodesWithRestrictions.testreachableNodes">
-    <configuration name="a1578MinimumTimetoMakeRopeColorful.testminCost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q4.test">
+    <configuration name="Q4.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a1578MinimumTimetoMakeRopeColorful.*" />
+          <option name="PATTERN" value="leetcode.typescript.CHard.bw90.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a1578MinimumTimetoMakeRopeColorful" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a1578MinimumTimetoMakeRopeColorful.a1578MinimumTimetoMakeRopeColorful" />
-      <option name="METHOD_NAME" value="testminCost" />
+      <option name="PACKAGE_NAME" value="leetcode.typescript.CHard.bw90.java" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.typescript.CHard.bw90.java.Q4" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a2368ReachableNodesWithRestrictions.testreachableNodes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a2368ReachableNodesWithRestrictions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a2368ReachableNodesWithRestrictions" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a2368ReachableNodesWithRestrictions.a2368ReachableNodesWithRestrictions" />
-      <option name="METHOD_NAME" value="testreachableNodes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="AlfrescoLogin" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoLogin.test.ts" />
+      <test-names>
+        <test-name value="AlfrescoLogin" />
+      </test-names>
+      <method v="2" />
     </configuration>
-    <configuration name="a658FindKClosestElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a658FindKClosestElements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a658FindKClosestElements" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a658FindKClosestElements.a658FindKClosestElements" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="AlfrescoRestApi tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoRestApi.test.ts" />
+      <test-names>
+        <test-name value="AlfrescoRestApi tests" />
+      </test-names>
+      <method v="2" />
     </configuration>
-    <configuration name="a658FindKClosestElements.findClosestElementsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a658FindKClosestElements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a658FindKClosestElements" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a658FindKClosestElements.a658FindKClosestElements" />
-      <option name="METHOD_NAME" value="findClosestElementsTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="AlfrescoRestApi tests.should get alfresco content" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoRestApi.test.ts" />
+      <test-names>
+        <test-name value="AlfrescoRestApi tests" />
+        <test-name value="should get alfresco content" />
+      </test-names>
+      <method v="2" />
     </configuration>
-    <configuration name="c2421NumberofGoodPaths.numberOfGoodPathsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Chard.c2421NumberofGoodPaths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Chard.c2421NumberofGoodPaths" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Chard.c2421NumberofGoodPaths.c2421NumberofGoodPaths" />
-      <option name="METHOD_NAME" value="numberOfGoodPathsTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="AlfrescoRestApi tests.should upload file" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoRestApi.test.ts" />
+      <test-names>
+        <test-name value="AlfrescoRestApi tests" />
+        <test-name value="should upload file" />
+      </test-names>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
       <option name="passParentEnvironments" value="true" />
@@ -251,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.a2368ReachableNodesWithRestrictions.testreachableNodes" />
-        <item itemvalue="JUnit.a1578MinimumTimetoMakeRopeColorful.testminCost" />
-        <item itemvalue="JUnit.a658FindKClosestElements.findClosestElementsTest" />
-        <item itemvalue="JUnit.a658FindKClosestElements" />
-        <item itemvalue="JUnit.c2421NumberofGoodPaths.numberOfGoodPathsTest" />
+        <item itemvalue="JUnit.Q4.test" />
+        <item itemvalue="Jest.AlfrescoRestApi tests.should upload file" />
+        <item itemvalue="Jest.AlfrescoRestApi tests.should get alfresco content" />
+        <item itemvalue="Jest.AlfrescoLogin" />
+        <item itemvalue="Jest.AlfrescoRestApi tests" />
       </list>
     </recent_temporary>
   </component>
@@ -357,6 +371,35 @@
       <workItem from="1664527557914" duration="8680000" />
       <workItem from="1664840150517" duration="2746000" />
       <workItem from="1665015542757" duration="895000" />
+      <workItem from="1665020148708" duration="782000" />
+      <workItem from="1665022894420" duration="80000" />
+      <workItem from="1665066531706" duration="4333000" />
+      <workItem from="1665127066204" duration="3592000" />
+      <workItem from="1665132116983" duration="10611000" />
+      <workItem from="1665278746363" duration="7171000" />
+      <workItem from="1665371491066" duration="1805000" />
+      <workItem from="1665400036786" duration="6785000" />
+      <workItem from="1665446541982" duration="336000" />
+      <workItem from="1665532775712" duration="1602000" />
+      <workItem from="1665631519117" duration="781000" />
+      <workItem from="1665707154535" duration="876000" />
+      <workItem from="1665795676812" duration="3329000" />
+      <workItem from="1665806648081" duration="10926000" />
+      <workItem from="1665927345900" duration="395000" />
+      <workItem from="1665990082978" duration="639000" />
+      <workItem from="1666005643730" duration="5649000" />
+      <workItem from="1666135493407" duration="6770000" />
+      <workItem from="1666224339336" duration="1355000" />
+      <workItem from="1666239848284" duration="706000" />
+      <workItem from="1666255153680" duration="6208000" />
+      <workItem from="1666273495232" duration="6750000" />
+      <workItem from="1666514063353" duration="2096000" />
+      <workItem from="1666655746731" duration="3543000" />
+      <workItem from="1666743546704" duration="1166000" />
+      <workItem from="1666829722793" duration="862000" />
+      <workItem from="1666915314635" duration="1036000" />
+      <workItem from="1667002360895" duration="24557000" />
+      <workItem from="1667300656677" duration="1232000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -393,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662029660911</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;algo&quot;">
+      <created>1665020187256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665020187256</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

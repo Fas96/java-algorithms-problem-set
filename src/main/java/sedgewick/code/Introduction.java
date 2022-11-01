@@ -1,4 +1,4 @@
-package sedgewick;
+package sedgewick.code;
 
 public class Introduction {
      int gcd(int p, int q)

@@ -8,10 +8,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoLogin.test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoLogin.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoRestApi.test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/AlfrescoRestApi.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +293,9 @@
       <workItem from="1666915314635" duration="1036000" />
       <workItem from="1667002360895" duration="24557000" />
       <workItem from="1667300656677" duration="1232000" />
-      <workItem from="1667307044603" duration="416000" />
+      <workItem from="1667307044603" duration="729000" />
+      <workItem from="1667359243529" duration="4398000" />
+      <workItem from="1667383524305" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -347,7 +346,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667307173576</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;algo&quot;">
+      <created>1667307468920</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667307468920</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;algo&quot;">
+      <created>1667307666805</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667307666805</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;algo&quot;">
+      <created>1667360053665</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667360053665</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;algo&quot;">
+      <created>1667383551560</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667383551560</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

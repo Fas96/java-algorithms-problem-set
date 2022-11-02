@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;algo&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/433. Minimum Genetic Mutation.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,7 +293,7 @@
       <workItem from="1667300656677" duration="1232000" />
       <workItem from="1667307044603" duration="729000" />
       <workItem from="1667359243529" duration="4398000" />
-      <workItem from="1667383524305" duration="334000" />
+      <workItem from="1667383524305" duration="2207000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -374,7 +372,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667383551560</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;algo&quot;">
+      <created>1667383884750</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667383884751</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;algo&quot;">
+      <created>1667384088694</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667384088694</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +397,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

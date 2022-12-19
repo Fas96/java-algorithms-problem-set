@@ -14,6 +14,7 @@
       <version>4.13.2</version>
       <scope>compile</scope>
     </dependency>
+
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
@@ -25,6 +26,12 @@
       <groupId>org.glassfish.external</groupId>
       <artifactId>apache-commons</artifactId>
       <version>10.0-b28</version>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>RELEASE</version>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
 

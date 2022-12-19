@@ -1,11 +1,12 @@
 package leetcode.Aeasy.a118PascalsTriangle;
 
+import com.sun.tools.javac.util.Pair;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import javafx.util.Pair;
 
 public class a118PascalsTriangle {
   public List<List<Integer>> generate(int numRows) {

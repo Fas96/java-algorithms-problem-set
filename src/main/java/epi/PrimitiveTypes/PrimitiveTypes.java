@@ -2,7 +2,6 @@ package epi.PrimitiveTypes;
 
 import static org.junit.Assert.assertEquals;
 
-import apple.laf.JRSUIConstants.BooleanValue;
 import org.junit.Test;
 
 public class PrimitiveTypes {

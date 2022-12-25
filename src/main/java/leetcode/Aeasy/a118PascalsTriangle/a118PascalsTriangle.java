@@ -1,6 +1,5 @@
 package leetcode.Aeasy.a118PascalsTriangle;
 
-import com.sun.tools.javac.util.Pair;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -22,9 +21,9 @@ public class a118PascalsTriangle {
     return allrows;
 
   }
-  public static <A, B> List<Pair<A, B>> zipJava8(List<A> as, List<B> bs) {
-    return IntStream.range(0, Math.min(as.size(), bs.size()))
-        .mapToObj(i -> new Pair<>(as.get(i), bs.get(i)))
-        .collect(Collectors.toList());
-  }
+//  public static <A, B> List<Pair<A, B>> zipJava8(List<A> as, List<B> bs) {
+//    return IntStream.range(0, Math.min(as.size(), bs.size()))
+//        .mapToObj(i -> new Pair<>(as.get(i), bs.get(i)))
+//        .collect(Collectors.toList());
+//  }
 }

@@ -2,7 +2,6 @@ package baeldung.perfectSquares;
 
 import static org.junit.Assert.assertEquals;
 
-import com.sun.glass.ui.Clipboard;
 import java.util.LinkedList;
 import java.util.List;
 import org.junit.Test;

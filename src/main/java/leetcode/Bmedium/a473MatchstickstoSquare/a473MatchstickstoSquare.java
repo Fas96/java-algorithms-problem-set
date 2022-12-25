@@ -3,7 +3,6 @@ package leetcode.Bmedium.a473MatchstickstoSquare;
 import static java.util.Collections.sort;
 import static org.junit.Assert.assertEquals;
 
-import com.sun.org.apache.xpath.internal.operations.Equals;
 import java.util.Arrays;
 import java.util.Collections;
 import org.junit.Test;

@@ -4,19 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;Kruskal&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q2389LongestSubsequenceWithLimitedSum/Q2389LongestSubsequenceWithLimitedSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1029TwoCityScheduling/Q1029TwoCityScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q841KeysAndRooms/Q841KeysAndRooms.java" afterDir="false" />
+    <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;prob&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/IncrementArbitraryPrecisionInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/MultiplyTwoArbitraryPrecisionIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q290WordPattern/Q290WordPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q520DetectCapital/Q520DetectCapital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q944DeleteColumnsToMakeSorted/Q944DeleteColumnsToMakeSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q134GasStation/Q134GasStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1833MaximumIceCreamBars/Q1833MaximumIceCreamBars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1834SingleThreadedCPU/Q1834SingleThreadedCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1962RemoveStonesToMinimizeTheTotal/Q1962RemoveStonesToMinimizeTheTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1976NumberOfWaysToArriveAtDestination/Q1976NumberOfWaysToArriveAtDestination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1976NumberOfWaysToArriveAtDestination/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2244MinimumRoundsToCompleteAllTasks/Q2244MinimumRoundsToCompleteAllTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2279MaximumBagsWithFullCapacityOfRocks/Q2279MaximumBagsWithFullCapacityOfRocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2517MaximumTastinessOfCandyBasket/Q2517MaximumTastinessOfCandyBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q452MinimumNumberOfArrowsToBurstBalloons/Q452MinimumNumberOfArrowsToBurstBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q797AllPathsFromSourceToTarget/Q797AllPathsFromSourceToTarget.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q886PossibleBipartition/ALFRESCO_INSTALLATION_HARD_PART.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q886PossibleBipartition/Q886PossibleBipartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/Q834SumOfDistancesInTree/Q834SumOfDistancesInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/Q149MaxPointsOnALine/Q149MaxPointsOnALine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/Q980UniquePathsIII/Q980UniquePathsIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw/Q2511MaximumEnemyFortsThatCanBeCaptured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw/Q2512RewardTopKStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q100SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q144BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q997FindTheTownJudge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1061LexicographicallySmallestEquivalentString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1443MinimumTimeToCollectAllApplesInATree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1519NumberOfNodesInTheSubTreeWithTheSameLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2359FindClosestNodeToGivenTwoNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q57InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q909SnakesAndLadders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q926FlipStringToMonotoneIncreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q93RestoreIPAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/arrays/Q491NondecreasingSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/arrays/Q918MaximumSumCircularSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/arrays/Q974SubarraySumsDivisibleByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q2246LongestPathWithDifferentAdjacentCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q352DataStreamAsDisjointIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q472ConcatenatedWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/bsearch/Q2516TakeKOfEachCharacterFromLeftAndRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/bsearch/Q2530MaximalScoreAfterApplyingKOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/shortestpath/Q1514PathWithMaximumProbability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/shortestpath/Q399EvaluateDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/shortestpath/Q787CheapestFlightsWithinKStops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q128LongestConsecutiveSequence/Q128LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q130SurroundedRegions/Q130SurroundedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q684RedundantConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q685RedundantConnectionII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q2532TimeToCrossABridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q6283MaximumCountOfPositiveIntegerAndNegativeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q6284MakeNumberOfDistinctCharactersEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q6285MaximalScoreAfterApplyingKOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w328/Q6291DifferenceBetweenElementSumAndDigitSumOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w328/Q6292IncrementSubmatricesByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w328/Q6293CountTheNumberOfGoodSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q2547MinimumCostToSplitAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q6296AlternatingDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q6297SortTheStudentsByTheirKthScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q6298ApplyBitwiseOperationsToMakeStringsEqual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algoritms/kruskal/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algoritms/kruskal/ShortestPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baeldung/perfectSquares/PerfectSquaresIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baeldung/perfectSquares/PerfectSquaresIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/PrimitiveTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a118PascalsTriangle/a118PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a118PascalsTriangle/a118PascalsTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a473MatchstickstoSquare/a473MatchstickstoSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +81,7 @@
         <option value="Python Script" />
         <option value="TypeScript File" />
         <option value="Interface" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -64,14 +113,17 @@
     &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/leetcode/Eweekly/w318&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fasbhim/Documents/Education/2022/algorithm/problem-solving/src/main/java/leetcode/Aeasy&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs.jest.jest_package&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/leetcode/typescript/CHard/node_modules/jest&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/linux/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -83,11 +135,11 @@
       <recent name="kakao.a2022.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode/Aeasy" />
       <recent name="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w318" />
       <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript" />
       <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard" />
       <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript" />
-      <recent name="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/QEasiestPossibleDPJava" />
@@ -103,79 +155,82 @@
       <recent name="kakao.a2022.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q886PossibleBipartition.test">
-    <configuration name="ShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algoritms.kruskal.ShortestPath" />
+  <component name="RunManager" selected="JUnit.Q472ConcatenatedWords.test">
+    <configuration name="Q472ConcatenatedWords.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algoritms.kruskal.*" />
+          <option name="PATTERN" value="leetcode.Y2023.daily.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DisjointMakeSet.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algoritms.UnionFind.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Algoritms.UnionFind.code" />
-      <option name="MAIN_CLASS_NAME" value="Algoritms.UnionFind.code.DisjointMakeSet" />
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.hard" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.hard.Q472ConcatenatedWords" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4.testSol" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q6296AlternatingDigitSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Eweekly.w319.*" />
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w329.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Eweekly.w319" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Eweekly.w319.Q4" />
-      <option name="METHOD_NAME" value="testSol" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q886PossibleBipartition.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.Q886PossibleBipartition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.Q886PossibleBipartition" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.Q886PossibleBipartition.Q886PossibleBipartition" />
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w329" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w329.Q6296AlternatingDigitSum" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a4CountBits.testCountBits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q6298ApplyBitwiseOperationsToMakeStringsEqual.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="epi.PrimitiveTypes.*" />
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w329.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
-      <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.a4CountBits" />
-      <option name="METHOD_NAME" value="testCountBits" />
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w329" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w329.Q6298ApplyBitwiseOperationsToMakeStringsEqual" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q93RestoreIPAddresses.restoreIpAddressesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.daily.dmedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.dmedium" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q93RestoreIPAddresses" />
+      <option name="METHOD_NAME" value="restoreIpAddressesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q997FindTheTownJudge.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.daily.deasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.deasy" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.deasy.Q997FindTheTownJudge" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -204,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Q886PossibleBipartition.test" />
-        <item itemvalue="Application.ShortestPath" />
-        <item itemvalue="JUnit.DisjointMakeSet.test" />
-        <item itemvalue="JUnit.a4CountBits.testCountBits" />
-        <item itemvalue="JUnit.Q4.testSol" />
+        <item itemvalue="JUnit.Q472ConcatenatedWords.test" />
+        <item itemvalue="JUnit.Q997FindTheTownJudge.test" />
+        <item itemvalue="JUnit.Q6298ApplyBitwiseOperationsToMakeStringsEqual.test" />
+        <item itemvalue="JUnit.Q6296AlternatingDigitSum.test" />
+        <item itemvalue="JUnit.Q93RestoreIPAddresses.restoreIpAddressesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +424,43 @@
       <workItem from="1671581593261" duration="3564000" />
       <workItem from="1671586318906" duration="1203000" />
       <workItem from="1671667505517" duration="988000" />
-      <workItem from="1671931888466" duration="308000" />
+      <workItem from="1671931888466" duration="958000" />
+      <workItem from="1672052927190" duration="8764000" />
+      <workItem from="1672107208175" duration="2174000" />
+      <workItem from="1672227941118" duration="2022000" />
+      <workItem from="1672324868170" duration="1441000" />
+      <workItem from="1672373587517" duration="1864000" />
+      <workItem from="1672407518659" duration="5561000" />
+      <workItem from="1672557620943" duration="835000" />
+      <workItem from="1672617697474" duration="733000" />
+      <workItem from="1672658380109" duration="2855000" />
+      <workItem from="1672703941376" duration="1695000" />
+      <workItem from="1672800240845" duration="3050000" />
+      <workItem from="1672877426306" duration="2012000" />
+      <workItem from="1672964801120" duration="662000" />
+      <workItem from="1673091993921" duration="10592000" />
+      <workItem from="1673156320489" duration="8836000" />
+      <workItem from="1673222922880" duration="792000" />
+      <workItem from="1673223733026" duration="1198000" />
+      <workItem from="1673262632912" duration="7139000" />
+      <workItem from="1673446289801" duration="3750000" />
+      <workItem from="1673620253460" duration="1147000" />
+      <workItem from="1673674104420" duration="1629000" />
+      <workItem from="1673677100483" duration="2101000" />
+      <workItem from="1673749250737" duration="6711000" />
+      <workItem from="1673828943119" duration="458000" />
+      <workItem from="1673916544749" duration="1293000" />
+      <workItem from="1674000546941" duration="1161000" />
+      <workItem from="1674087533561" duration="1265000" />
+      <workItem from="1674098694087" duration="2769000" />
+      <workItem from="1674172804551" duration="777000" />
+      <workItem from="1674220841231" duration="4815000" />
+      <workItem from="1674354499579" duration="267000" />
+      <workItem from="1674354779817" duration="6451000" />
+      <workItem from="1674449662261" duration="1929000" />
+      <workItem from="1674534149835" duration="795000" />
+      <workItem from="1674647579322" duration="3522000" />
+      <workItem from="1674829639381" duration="2775000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -518,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671494296498</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="&quot;prob&quot;">
+      <created>1671932222960</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1671932222960</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +642,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;algo&quot;" />
     <MESSAGE value="&quot;Kruskal&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Kruskal&quot;" />
+    <MESSAGE value="&quot;prob&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;prob&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -562,6 +661,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a967NumbersWithSameConsecutiveDifferences/a967NumbersWithSameConsecutiveDifferences.java</url>
           <line>15</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2244MinimumRoundsToCompleteAllTasks/Q2244MinimumRoundsToCompleteAllTasks.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2244MinimumRoundsToCompleteAllTasks/Q2244MinimumRoundsToCompleteAllTasks.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2244MinimumRoundsToCompleteAllTasks/Q2244MinimumRoundsToCompleteAllTasks.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

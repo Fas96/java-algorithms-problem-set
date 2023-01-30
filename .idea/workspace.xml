@@ -5,66 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;prob&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/IncrementArbitraryPrecisionInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/MultiplyTwoArbitraryPrecisionIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q290WordPattern/Q290WordPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q520DetectCapital/Q520DetectCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q944DeleteColumnsToMakeSorted/Q944DeleteColumnsToMakeSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q134GasStation/Q134GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1833MaximumIceCreamBars/Q1833MaximumIceCreamBars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1834SingleThreadedCPU/Q1834SingleThreadedCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1962RemoveStonesToMinimizeTheTotal/Q1962RemoveStonesToMinimizeTheTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1976NumberOfWaysToArriveAtDestination/Q1976NumberOfWaysToArriveAtDestination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1976NumberOfWaysToArriveAtDestination/a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2244MinimumRoundsToCompleteAllTasks/Q2244MinimumRoundsToCompleteAllTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2279MaximumBagsWithFullCapacityOfRocks/Q2279MaximumBagsWithFullCapacityOfRocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q2517MaximumTastinessOfCandyBasket/Q2517MaximumTastinessOfCandyBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q452MinimumNumberOfArrowsToBurstBalloons/Q452MinimumNumberOfArrowsToBurstBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q797AllPathsFromSourceToTarget/Q797AllPathsFromSourceToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q886PossibleBipartition/ALFRESCO_INSTALLATION_HARD_PART.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/Q149MaxPointsOnALine/Q149MaxPointsOnALine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/Q980UniquePathsIII/Q980UniquePathsIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw/Q2511MaximumEnemyFortsThatCanBeCaptured.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw/Q2512RewardTopKStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q100SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q144BinaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q997FindTheTownJudge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1061LexicographicallySmallestEquivalentString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1443MinimumTimeToCollectAllApplesInATree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1519NumberOfNodesInTheSubTreeWithTheSameLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2359FindClosestNodeToGivenTwoNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q57InsertInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q909SnakesAndLadders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q926FlipStringToMonotoneIncreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q93RestoreIPAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/arrays/Q491NondecreasingSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/arrays/Q918MaximumSumCircularSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/arrays/Q974SubarraySumsDivisibleByK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q2246LongestPathWithDifferentAdjacentCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q352DataStreamAsDisjointIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q472ConcatenatedWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/bsearch/Q2516TakeKOfEachCharacterFromLeftAndRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/bsearch/Q2530MaximalScoreAfterApplyingKOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/shortestpath/Q1514PathWithMaximumProbability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/shortestpath/Q399EvaluateDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/shortestpath/Q787CheapestFlightsWithinKStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q128LongestConsecutiveSequence/Q128LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q130SurroundedRegions/Q130SurroundedRegions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q684RedundantConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/personal/uf/Q685RedundantConnectionII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q2532TimeToCrossABridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q6283MaximumCountOfPositiveIntegerAndNegativeInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q6284MakeNumberOfDistinctCharactersEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w327/Q6285MaximalScoreAfterApplyingKOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w328/Q6291DifferenceBetweenElementSumAndDigitSumOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w328/Q6292IncrementSubmatricesByOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w328/Q6293CountTheNumberOfGoodSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q2547MinimumCostToSplitAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q6296AlternatingDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q6297SortTheStudentsByTheirKthScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w329/Q6298ApplyBitwiseOperationsToMakeStringsEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q1137NthTribonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q460LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w330/Q6337CountDistinctNumbersOnBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w330/Q6338CountCollisionsOfMonkeysOnAPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w330/Q6339PutMarblesInBags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w330/Q6340CountIncreasingQuadruplets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q352DataStreamAsDisjointIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q352DataStreamAsDisjointIntervals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,72 +103,8 @@
       <recent name="kakao.a2022.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q472ConcatenatedWords.test">
-    <configuration name="Q472ConcatenatedWords.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.daily.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.hard" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.hard.Q472ConcatenatedWords" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q6296AlternatingDigitSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.weekly.w329.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w329" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w329.Q6296AlternatingDigitSum" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q6298ApplyBitwiseOperationsToMakeStringsEqual.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.weekly.w329.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w329" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w329.Q6298ApplyBitwiseOperationsToMakeStringsEqual" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q93RestoreIPAddresses.restoreIpAddressesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.daily.dmedium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.dmedium" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q93RestoreIPAddresses" />
-      <option name="METHOD_NAME" value="restoreIpAddressesTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q997FindTheTownJudge.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q1137NthTribonacciNumber.test">
+    <configuration name="Q1137NthTribonacciNumber.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -229,8 +113,72 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.deasy" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.deasy.Q997FindTheTownJudge" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.deasy.Q1137NthTribonacciNumber" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6337CountDistinctNumbersOnBoard.testdistinctIntegers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w330.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w330" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w330.Q6337CountDistinctNumbersOnBoard" />
+      <option name="METHOD_NAME" value="testdistinctIntegers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6338CountCollisionsOfMonkeysOnAPolygon.testmonkeyMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w330.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w330" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w330.Q6338CountCollisionsOfMonkeysOnAPolygon" />
+      <option name="METHOD_NAME" value="testmonkeyMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6339PutMarblesInBags.testputMarbles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w330.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w330" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w330.Q6339PutMarblesInBags" />
+      <option name="METHOD_NAME" value="testputMarbles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6340CountIncreasingQuadruplets.testcountQuadruplets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w330.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w330" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w330.Q6340CountIncreasingQuadruplets" />
+      <option name="METHOD_NAME" value="testcountQuadruplets" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -259,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Q472ConcatenatedWords.test" />
-        <item itemvalue="JUnit.Q997FindTheTownJudge.test" />
-        <item itemvalue="JUnit.Q6298ApplyBitwiseOperationsToMakeStringsEqual.test" />
-        <item itemvalue="JUnit.Q6296AlternatingDigitSum.test" />
-        <item itemvalue="JUnit.Q93RestoreIPAddresses.restoreIpAddressesTest" />
+        <item itemvalue="JUnit.Q1137NthTribonacciNumber.test" />
+        <item itemvalue="JUnit.Q6337CountDistinctNumbersOnBoard.testdistinctIntegers" />
+        <item itemvalue="JUnit.Q6340CountIncreasingQuadruplets.testcountQuadruplets" />
+        <item itemvalue="JUnit.Q6339PutMarblesInBags.testputMarbles" />
+        <item itemvalue="JUnit.Q6338CountCollisionsOfMonkeysOnAPolygon.testmonkeyMove" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +408,9 @@
       <workItem from="1674449662261" duration="1929000" />
       <workItem from="1674534149835" duration="795000" />
       <workItem from="1674647579322" duration="3522000" />
-      <workItem from="1674829639381" duration="2775000" />
+      <workItem from="1674829639381" duration="9720000" />
+      <workItem from="1674957843093" duration="9212000" />
+      <workItem from="1675037546082" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -616,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671932222960</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="&quot;prob&quot;">
+      <created>1674870293301</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674870293301</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

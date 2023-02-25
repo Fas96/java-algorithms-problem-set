@@ -1,0 +1,4 @@
+package AATemplates.ACHEATSHEET.QFindTheShortestNearestPathDistanceInATreeMatrixGraph;
+
+public class QFindTheShortestNearestPathDistanceInATreeMatrixGraph {
+}

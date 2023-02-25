@@ -21,12 +21,12 @@ public class Q1137NthTribonacciNumber {
     public void test() {
         int n = 4;
         int res = tribonacci(n);
-       assertEquals(4, res);
-       n=25;
+         assertEquals(4, res);
+         n=25;
          res = tribonacci(n);
-        assertEquals(1389537, res);
-        n=0;
-        res = tribonacci(n);
-        assertEquals(0, res);
+         assertEquals(1389537, res);
+         n=0;
+         res = tribonacci(n);
+         assertEquals(0, res);
     }
 }

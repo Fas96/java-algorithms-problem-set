@@ -3,3 +3,7 @@ node_modules
 src/main/java/leetcode/typescript/CHard/node_modules
 package-lock.json
 package.json
+.zip
+.pdf
+.jar
+.war

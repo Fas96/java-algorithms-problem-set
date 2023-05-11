@@ -5,554 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;algo&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CoverUsage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/abc267/G.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/BitwiseOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/PrimitiveTypes/a4CountBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/ArrayManipulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/MaxAdvancingThroughAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/MultiplyTwoArbitraryPrecissionIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/TheDutchNationalFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/blog/1.BitwiseOperations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/docs/1.InterviewandCodeFormate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/docs/4.premitive types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/rectangleintersection/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerrank/easy/Breakingbestandworstrecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/demo/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/demo/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/demo/Q4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kakao/a2022/test/Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a1047RemoveAllAdjacentDuplicatesInString/a1047RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a111MinimumDepthofBinaryTree/a111MinimumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a1323Maximum69Number/a1323Maximum69Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a13RomantoInteger/a13RomantoInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a1544MakeTheStringGreat/a1544MakeTheStringGreat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a2379MinimumRecolorstoGetKConsecutiveBlackBlocks/a2379MinimumRecolorstoGetKConsecutiveBlackBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a26RemoveDuplicatesfromSortedArray/a26RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a383RansomNote/a383RansomNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a387FirstUniqueCharacterinaString/a387FirstUniqueCharacterinaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a557ReverseWordsinaStringIII/AF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a557ReverseWordsinaStringIII/a557ReverseWordsinaStringIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a645SetMismatch/a645SetMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/a804UniqueMorseCodeWords/a804UniqueMorseCodeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1091ShortestPathinBinaryMatrix/a1091ShortestPathinBinaryMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a113PathSumII/113. Path SumII.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a113PathSumII/a113PathSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1143LongestCommonSubsequence/a1143LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a130SurroundedRegions/a130SurroundedRegions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1329SorttheMatrixDiagonally/a1329SorttheMatrixDiagonally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1338ReduceArraySizetoTheHalf/a1338ReduceArraySizetoTheHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a133CloneGraph/a133CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1448CountGoodNodesinBinaryTree/CountGoodNodes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1448CountGoodNodesinBinaryTree/a1448CountGoodNodesinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/1457. Pseudo-Palindromic Paths in a Binary Tree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/a1457PseudoPalindromicPathsinaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1519NumberNodesSubTreeWiththeSameLabel/a1519NumberNodesSubTreeWiththeSameLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a151ReverseWordsinaString/a151ReverseWordsinaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1578MinimumTimetoMakeRopeColorful/a1578MinimumTimetoMakeRopeColorful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1680ConcatenationofConsecutiveBinaryNumbers/a1680ConcatenationofConsecutiveBinaryNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1770MaximumScorefromPerformingMultiplicationOperations/a1770MaximumScorefromPerformingMultiplicationOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a1770MaximumScorefromPerformingMultiplicationOperations/maxscore.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a17PacificAtlanticWaterFlow/a17PacificAtlanticWaterFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a19RemoveNthNodeFromEndofList/a19RemoveNthNodeFromEndofList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2007FindOriginalArrayFromDoubledArray/a2007FindOriginalArrayFromDoubledArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2368ReachableNodesWithRestrictions/a2368ReachableNodesWithRestrictions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2380TimeNeededtoRearrangeaBinaryString/a2380TimeNeededtoRearrangeaBinaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2381ShiftingLettersII/a2381ShiftingLettersII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2414LengthoftheLongestAlphabeticalContinuousSubstring/a2414LengthoftheLongestAlphabeticalContinuousSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2415ReverseOddLevelsofBinaryTree/a2415ReverseOddLevelsofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2419LongestSubarrayWithMaximumBitwiseAND/a2419LongestSubarrayWithMaximumBitwiseAND.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a274HIndex/a274HIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a274HIndex/a275HIndexII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a2AddTwoNumbers/a2AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a322CoinChange/a322CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a337HouseRobberIII/a337HouseRobberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a341FlattenNestedListIterator/a341FlattenNestedListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a347TopKFrequentElements/Cannot assign a value to final variable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a347TopKFrequentElements/a347TopKFrequentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a373FindKPairswithSmallestSums/a373FindKPairswithSmallestSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a378KSmallestElementinaSortedMatrix/a378KSmallestElementinaSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a386LexicographicalNumbers/a386LexicographicalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a393UTF8Validation/a393UTF8Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a393UTF8Validation/utf8validation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a419BattleshipsinaBoard/a419BattleshipsinaBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a429NaryTreeLevelOrderTraversal/a429NaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a430FlattenaMultilevelDoublyLinkedList/a430FlattenaMultilevelDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a437PathSumIII/a437PathSumIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a449SerializeandDeserializeBST/a449SerializeandDeserializeBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a508MostFrequentSubtreeSum/a508MostFrequentSubtreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a529Minesweeper/a529Minesweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a565ArrayNesting/a565ArrayNesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a609FindDuplicateFileinSystem/a609FindDuplicateFileinSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a658FindKClosestElements/a658FindKClosestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a659SplitArrayintoConsecutiveSubsequences/a659SplitArrayintoConsecutiveSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a718MaximumLengthofRepeatedSubarray/718.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a718MaximumLengthofRepeatedSubarray/a718MaximumLengthofRepeatedSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a729MyCalendarI/MyCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a729MyCalendarI/a729MyCalendarI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a732MyCalendarIII/WhatIsTreeMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a732MyCalendarIII/a732MyCalendarIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a743NetworkDelayTime/a743NetworkDelayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a75SortColors/a75SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a763PartitionLabels/a763PartitionLabels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a82RemoveDuplicatesfromSortedListII/a82RemoveDuplicatesfromSortedListII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a82RemoveDuplicatesfromSortedListII/remodeDuplicates.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a838PushDominoes/a838PushDominoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a841KeysandRooms/a841KeysandRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a869ReorderedPowerof2/a869ReorderedPowerof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a901OnlineStockSpan/StockSpanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a90SubsetsII/a90SubsetsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a947MostStonesRemovedwithSameRoworColumn/a947MostStonesRemovedwithSameRoworColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a967NumbersWithSameConsecutiveDifferences/a967NumbersWithSameConsecutiveDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a981TimeBasedKeyValueStore/a981TimeBasedKeyValueStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a985SumofEvenNumbersAfterQueries/a985SumofEvenNumbersAfterQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a990SatisfiabilityofEqualityEquations/a990SatisfiabilityofEqualityEquations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/aThreeSumProblem/aThreeSumSmaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/a295FindMedianfromDataStream/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/a295FindMedianfromDataStream/a295FindMedianfromDataStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/a899OrderlyQueue/a899OrderlyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/c10RegularExpressionMatching.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/c10RegularExpressionMatching.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/jest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c10RegularExpressionMatching/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c1383MaximumPerformanceofaTeam/c1383MaximumPerformanceofaTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c188BestTimetoBuyandSellStockIV/c188BestTimetoBuyandSellStockIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c239SlidingWindowMaximum/c239SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c23MergekSortedLists/c23MergekSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c2416SumofPrefixScoresofStrings/c2416SumofPrefixScoresofStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c2421NumberofGoodPaths/c2421NumberofGoodPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c30SubstringwithConcatenationofAllWords/c30SubstringwithConcatenationofAllWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c336PalindromePairs/c336PalindromePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c37SudokuSolver/c37SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c37SudokuSolver/soduko.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c42TrappingRainWater/c42TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c4MedianofTwoSortedArrays/c4MedianofTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c668KthSmallestNumberinMultiplicationTable/c668KthSmallestNumberinMultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c72EditDistance/c72EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c871MinimumNumberofRefuelingStops/c871MinimumNumberofRefuelingStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c936StampingTheSequence/c936StampingTheSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Chard/c987VerticalOrderTraversalofaBinaryTree/c987VerticalOrderTraversalofaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/TopologicalSorting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/a210CourseScheduleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/a310MinimumHeightTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/e207CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/Trie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/bigO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/dijkstraAlgorithm/a743NetworkDelayTime/a743NetworkDelayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e1004MaxConsecutiveOnesIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e159LongestSubstringwithAtMostTwoDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e209MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e3LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e424LongestRepeatingCharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e485MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e567PermutationinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/elongestsubstringwithatmostkdistinctcharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/a11ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/a977SquaresofaSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e167TwoSumIIInputArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e26RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e283MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/dijskstra/p1368MinimumCosttoMakeatLeastOneValidPathinaGrid/p1368MinimumCosttoMakeatLeastOneValidPathinaGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/practiceSet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/W309/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w307/q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w314/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w317/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w318/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w318/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w318/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w318/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w319/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w319/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w319/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w319/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/BW86/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw91/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw91/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw91/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweekly/bw91/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fbiweeklybiweeklycontest84/q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/AEasy/345. Reverse Vowels of a String.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/AEasy/653. Two Sum IV - Input is a BST.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/BMedium/2131. Longest Palindrome by Concatenating Two Letter Words.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/1948. Delete Duplicate Folders in System.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/212. Word Search II.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/12. Integer to Roman.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/1335. Minimum Difficulty of a Job Schedule.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/1480. Running Sum of 1d Array.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/1832. Check if the Sentence Is Pangram.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/2284. Sender With Largest Word Count.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/273. Integer to English Words.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/38. Count and Say.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/443. String Compression.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/547. Number of Provinces.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/565. Array Nesting.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/6210. Minimize Maximum of Array.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/6211. Create Components With Same Value.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/692. Top K Frequent Words.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/724. Find Pivot Index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/821. Shortest Distance to a Character.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q1.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q2.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q3.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q4.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/Q4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/a2438RangeProductQueriesofPowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/Bw89/topKFrequent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/6227. Next Greater Element IV.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/java/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/1293. Shortest Path in a Grid with Obstacles Elimination.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6225. Odd String Difference.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6226. Destroy Sequential Targets.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6227. Next Greater Element IV.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/6228. Words Within Two Edits of Dictionary.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/bw90/typescript/q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/c10RegularExpressionMatching.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/c10RegularExpressionMatching.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/jest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1239. Maximum Length of a Concatenated String with Unique Characters.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1328. Break a Palindrome.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1328. Break a Palindrome.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1531. String Compression II.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1531. String Compression IIDP.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1856. Maximum Subarray Min-Product.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/1856. Maximum Subarray Min-Product.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/19. Remove Nth Node From End of List.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/2095. Delete the Middle Node of a Linked List.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/219. Contains Duplicate II.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/220. Contains Duplicate III.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/237. Delete Node in a Linked List.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/2434. Using a Robot to Print the Lexicographically Smallest String.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/334. Increasing Triplet Subsequence.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6200. The Employee That Worked on the Longest Task.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6201. Find The Original Array of Prefix Xor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6202. Using a Robot to Print the Lexicographically Smallest String.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/6203. Paths in Matrix Whose Sum Is Divisible by K.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/91. Decode Ways.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/91. Decode Ways.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w314/976. Largest Perimeter Triangle.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/1662. Check If Two String Arrays are Equivalent.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/2136. Earliest Possible Day of Full Bloom.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/2446. Determine if Two Events Have Conflict.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/49. Group Anagrams.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/523. Continuous Subarray Sum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w316/835. Image Overlap.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/1706. Where Will the Ball Fall.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6220. Average Value of Even Numbers That Are Divisible by Three.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6221. Most Popular Video Creator.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6222. Minimum Addition to Make Integer Beautiful.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/6223. Height of Binary Tree After Subtree Removal Queries.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/766. Toeplitz Matrix.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w317/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w318/6229. Apply Operations to an Array.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/CHard/w318/6231. Total Cost to Hire K Workers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/typescript/FileFolderServiceImpl.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/Throttling.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/zombie" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/zombie.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/zombie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sedgewick/code/Introduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atcoder/abc267/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atcoder/abc267/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atcoder/abc267/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atcoder/abc267/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atcoder/abc267/E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atcoder/abc267/F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atcoder/abc267/G.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/PrimitiveTypes/BitwiseOperations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/PrimitiveTypes/a4CountBits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/arrays/ArrayManipulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/arrays/MaxAdvancingThroughAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/arrays/MultiplyTwoArbitraryPrecissionIntegers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/arrays/TheDutchNationalFlag$Color.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/arrays/TheDutchNationalFlag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/epi/rectangleintersection/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hackerrank/easy/Breakingbestandworstrecords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/demo/Q1$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/demo/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/demo/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q1$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q3$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q4$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q5$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q6$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q7$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q8$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kakao/a2022/test/Q8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a1047RemoveAllAdjacentDuplicatesInString/a1047RemoveAllAdjacentDuplicatesInString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a111MinimumDepthofBinaryTree/a111MinimumDepthofBinaryTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a111MinimumDepthofBinaryTree/a111MinimumDepthofBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a1323Maximum69Number/a1323Maximum69Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a13RomantoInteger/a13RomantoInteger$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a13RomantoInteger/a13RomantoInteger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a1544MakeTheStringGreat/a1544MakeTheStringGreat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a2379MinimumRecolorstoGetKConsecutiveBlackBlocks/a2379MinimumRecolorstoGetKConsecutiveBlackBlocks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a26RemoveDuplicatesfromSortedArray/a26RemoveDuplicatesfromSortedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a383RansomNote/a383RansomNote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a387FirstUniqueCharacterinaString/a387FirstUniqueCharacterinaString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a557ReverseWordsinaStringIII/AF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a557ReverseWordsinaStringIII/a557ReverseWordsinaStringIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a645SetMismatch/a645SetMismatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Aeasy/a804UniqueMorseCodeWords/a804UniqueMorseCodeWords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1091ShortestPathinBinaryMatrix/a1091ShortestPathinBinaryMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a113PathSumII/a113PathSumII$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a113PathSumII/a113PathSumII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1143LongestCommonSubsequence/a1143LongestCommonSubsequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1239MaximumLengthofaConcatenatedStringwithUniqueCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a130SurroundedRegions/a130SurroundedRegions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1329SorttheMatrixDiagonally/a1329SorttheMatrixDiagonally.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1338ReduceArraySizetoTheHalf/a1338ReduceArraySizetoTheHalf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a133CloneGraph/a133CloneGraph$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a133CloneGraph/a133CloneGraph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1448CountGoodNodesinBinaryTree/a1448CountGoodNodesinBinaryTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1448CountGoodNodesinBinaryTree/a1448CountGoodNodesinBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/AA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/ASolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/Permutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/a1457PseudoPalindromicPathsinaBinaryTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1457PseudoPalindromicPathsinaBinaryTree/a1457PseudoPalindromicPathsinaBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1519NumberNodesSubTreeWiththeSameLabel/a1519NumberNodesSubTreeWiththeSameLabel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a151ReverseWordsinaString/a151ReverseWordsinaString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1578MinimumTimetoMakeRopeColorful/a1578MinimumTimetoMakeRopeColorful.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1680ConcatenationofConsecutiveBinaryNumbers/a1680ConcatenationofConsecutiveBinaryNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a1770MaximumScorefromPerformingMultiplicationOperations/a1770MaximumScorefromPerformingMultiplicationOperations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a17PacificAtlanticWaterFlow/a17PacificAtlanticWaterFlow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a19RemoveNthNodeFromEndofList/a19RemoveNthNodeFromEndofList$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a19RemoveNthNodeFromEndofList/a19RemoveNthNodeFromEndofList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2007FindOriginalArrayFromDoubledArray/a2007FindOriginalArrayFromDoubledArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2368ReachableNodesWithRestrictions/a2368ReachableNodesWithRestrictions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2380TimeNeededtoRearrangeaBinaryString/a2380TimeNeededtoRearrangeaBinaryString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2381ShiftingLettersII/a2381ShiftingLettersII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2414LengthoftheLongestAlphabeticalContinuousSubstring/a2414LengthoftheLongestAlphabeticalContinuousSubstring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2415ReverseOddLevelsofBinaryTree/a2415ReverseOddLevelsofBinaryTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2415ReverseOddLevelsofBinaryTree/a2415ReverseOddLevelsofBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2419LongestSubarrayWithMaximumBitwiseAND/a2419LongestSubarrayWithMaximumBitwiseAND.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a274HIndex/a274HIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a274HIndex/a275HIndexII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2AddTwoNumbers/a2AddTwoNumbers$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a2AddTwoNumbers/a2AddTwoNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a322CoinChange/a322CoinChange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a337HouseRobberIII/a337HouseRobberIII$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a337HouseRobberIII/a337HouseRobberIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a341FlattenNestedListIterator/a341FlattenNestedListIterator$NestedInteger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a341FlattenNestedListIterator/a341FlattenNestedListIterator$NestedIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a341FlattenNestedListIterator/a341FlattenNestedListIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a347TopKFrequentElements/a347TopKFrequentElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a373FindKPairswithSmallestSums/a373FindKPairswithSmallestSums.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a378KSmallestElementinaSortedMatrix/a378KSmallestElementinaSortedMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a386LexicographicalNumbers/a386LexicographicalNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a393UTF8Validation/a393UTF8Validation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a419BattleshipsinaBoard/a419BattleshipsinaBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a429NaryTreeLevelOrderTraversal/a429NaryTreeLevelOrderTraversal$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a429NaryTreeLevelOrderTraversal/a429NaryTreeLevelOrderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a430FlattenaMultilevelDoublyLinkedList/a430FlattenaMultilevelDoublyLinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a430FlattenaMultilevelDoublyLinkedList/a430FlattenaMultilevelDoublyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a437PathSumIII/a437PathSumIII$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a437PathSumIII/a437PathSumIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a449SerializeandDeserializeBST/a449SerializeandDeserializeBST$Codec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a449SerializeandDeserializeBST/a449SerializeandDeserializeBST$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a449SerializeandDeserializeBST/a449SerializeandDeserializeBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a508MostFrequentSubtreeSum/a508MostFrequentSubtreeSum$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a508MostFrequentSubtreeSum/a508MostFrequentSubtreeSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a529Minesweeper/a529Minesweeper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a565ArrayNesting/a565ArrayNesting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a609FindDuplicateFileinSystem/a609FindDuplicateFileinSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a658FindKClosestElements/a658FindKClosestElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a659SplitArrayintoConsecutiveSubsequences/a659SplitArrayintoConsecutiveSubsequences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a718MaximumLengthofRepeatedSubarray/a718MaximumLengthofRepeatedSubarray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a729MyCalendarI/MyCalendar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a729MyCalendarI/a729MyCalendarI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a732MyCalendarIII/a732MyCalendarIII$MyCalendarThree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a732MyCalendarIII/a732MyCalendarIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a743NetworkDelayTime/a743NetworkDelayTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a75SortColors/a75SortColors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a763PartitionLabels/a763PartitionLabels.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a82RemoveDuplicatesfromSortedListII/a82RemoveDuplicatesfromSortedListII$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a82RemoveDuplicatesfromSortedListII/a82RemoveDuplicatesfromSortedListII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a838PushDominoes/a838PushDominoes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a841KeysandRooms/a841KeysandRooms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a869ReorderedPowerof2/a869ReorderedPowerof2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a901OnlineStockSpan/StockSpanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a90SubsetsII/a90SubsetsII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a947MostStonesRemovedwithSameRoworColumn/a947MostStonesRemovedwithSameRoworColumn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a967NumbersWithSameConsecutiveDifferences/a967NumbersWithSameConsecutiveDifferences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a981TimeBasedKeyValueStore/a981TimeBasedKeyValueStore$TimeMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a981TimeBasedKeyValueStore/a981TimeBasedKeyValueStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a985SumofEvenNumbersAfterQueries/a985SumofEvenNumbersAfterQueries.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a990SatisfiabilityofEqualityEquations/a990SatisfiabilityofEqualityEquations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/aThreeSumProblem/aThreeSumSmaller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/a295FindMedianfromDataStream/MedianFinder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/a295FindMedianfromDataStream/a295FindMedianfromDataStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/a899OrderlyQueue/a899OrderlyQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c1383MaximumPerformanceofaTeam/c1383MaximumPerformanceofaTeam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c188BestTimetoBuyandSellStockIV/c188BestTimetoBuyandSellStockIV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c239SlidingWindowMaximum/c239SlidingWindowMaximum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c23MergekSortedLists/c23MergekSortedLists$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c23MergekSortedLists/c23MergekSortedLists.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c2416SumofPrefixScoresofStrings/c2416SumofPrefixScoresofStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c2421NumberofGoodPaths/c2421NumberofGoodPaths.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c30SubstringwithConcatenationofAllWords/c30SubstringwithConcatenationofAllWords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c336PalindromePairs/c336PalindromePairs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c37SudokuSolver/c37SudokuSolver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c42TrappingRainWater/c42TrappingRainWater.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c4MedianofTwoSortedArrays/c4MedianofTwoSortedArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c668KthSmallestNumberinMultiplicationTable/c668KthSmallestNumberinMultiplicationTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c72EditDistance/c72EditDistance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c871MinimumNumberofRefuelingStops/c871MinimumNumberofRefuelingStops.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c936StampingTheSequence/c936StampingTheSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c987VerticalOrderTraversalofaBinaryTree/c987VerticalOrderTraversalofaBinaryTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Chard/c987VerticalOrderTraversalofaBinaryTree/c987VerticalOrderTraversalofaBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/a210CourseScheduleII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/a310MinimumHeightTrees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TopologicalSorting/leecodeExample/e207CourseSchedule.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure$WordDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/dijkstraAlgorithm/a743NetworkDelayTime/a743NetworkDelayTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e1004MaxConsecutiveOnesIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e159LongestSubstringwithAtMostTwoDistinctCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e209MinimumSizeSubarraySum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e3LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e424LongestRepeatingCharacterReplacement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e485MaxConsecutiveOnes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/e567PermutationinString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/slidingwindows/elongestsubstringwithatmostkdistinctcharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/a11ContainerWithMostWater.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/a977SquaresofaSortedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e167TwoSumIIInputArrayIsSorted.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e26RemoveDuplicatesfromSortedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/e283MoveZeroes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/dijskstra/p1368MinimumCosttoMakeatLeastOneValidPathinaGrid/p1368MinimumCosttoMakeatLeastOneValidPathinaGrid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/W309/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/W309/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/W309/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/W309/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w305/q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w305/q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w305/q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w305/q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w307/q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w307/q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w307/q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w307/q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w314/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w314/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w314/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w314/Q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w317/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w317/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w317/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w317/Q4$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w317/Q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w318/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w318/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w318/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w318/Q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w319/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w319/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w319/Q3$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w319/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Eweekly/w319/Q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/BW86/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/BW86/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/BW86/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/BW86/D$SegmentTreeRMQ.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/BW86/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/bw91/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/bw91/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/bw91/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweekly/bw91/Q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweeklybiweeklycontest84/q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweeklybiweeklycontest84/q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweeklybiweeklycontest84/q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/Fbiweeklybiweeklycontest84/q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/typescript/CHard/Bw89/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/typescript/CHard/Bw89/a2438RangeProductQueriesofPowers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/typescript/CHard/Bw89/topKFrequent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/typescript/CHard/bw90/java/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/typescript/CHard/bw90/java/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/typescript/CHard/bw90/java/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode/typescript/CHard/bw90/java/Q4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sedgewick/code/Introduction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/SuffixArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/suffixArray.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q59SpiralMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/alfrescoConference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sedgewick/code/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sedgewick/code/ImplementationOfCOdeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sedgewick/code/RandomSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sedgewick/code/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ClassNameFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../materials/books/Steven Halim, Felix Halim, Suhendry Effendy - Competitive Programming 4_ The Lower Bound of Programming Contests in the 2020s 1 (2018, Lulu.com) - libgen.li.pdf.crdownload" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w304/Question3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w305/q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/template/CollectionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/template/CollectionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Bmedium/a695MaxAreaofIsland/a695MaxAreaofIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/easy$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/easy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/CollectionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/CollectionHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sedgewick/code/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sedgewick/code/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure$WordDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure$WordDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Dpersonal/EricProgramming/LeetcodeFundamental/TriesPrefixTree/a211DesignAddandSearchWordsDataStructure.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -569,9 +47,19 @@
     <option name="NEW_BASE" value="origin/main" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/googlecode/princeton-java-algorithms/algorithms/4.0.1/algorithms-4.0.1.jar!/edu/princeton/cs/algorithms/BST.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/googlecode/princeton-java-algorithms/algorithms/4.0.1/algorithms-4.0.1.jar!/edu/princeton/cs/algorithms/DepthFirstOrder.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/googlecode/princeton-java-algorithms/algorithms/4.0.1/algorithms-4.0.1.jar!/edu/princeton/cs/algorithms/DepthFirstSearch.class" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -594,6 +82,9 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs.jest.jest_package&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/leetcode/typescript/CHard/node_modules/jest&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/linux/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -624,18 +115,44 @@
       <recent name="kakao.a2022.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.a4CountBits.testCountBits">
-    <configuration name="Q1.testSol" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SuffixArray">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sedgewick.code.BinarySearch" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Eweekly.w318.*" />
+          <option name="PATTERN" value="sedgewick.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Eweekly.w318" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Eweekly.w318.Q1" />
-      <option name="METHOD_NAME" value="testSol" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuffixArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.SuffixArray" />
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sedgewick.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sedgewick.code" />
+      <option name="MAIN_CLASS_NAME" value="sedgewick.code.BinarySearch" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -673,38 +190,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a1519NumberNodesSubTreeWiththeSameLabel.testSol" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Bmedium.a1519NumberNodesSubTreeWiththeSameLabel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Bmedium.a1519NumberNodesSubTreeWiththeSameLabel" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Bmedium.a1519NumberNodesSubTreeWiththeSameLabel.a1519NumberNodesSubTreeWiththeSameLabel" />
-      <option name="METHOD_NAME" value="testSol" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="a4CountBits.testCountBits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="epi.PrimitiveTypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="epi.PrimitiveTypes" />
-      <option name="MAIN_CLASS_NAME" value="epi.PrimitiveTypes.a4CountBits" />
-      <option name="METHOD_NAME" value="testCountBits" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="a947MostStonesRemovedwithSameRoworColumn.testSolutionMostStonesRemovedwithSameRoworColumn" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
@@ -728,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.a4CountBits.testCountBits" />
+        <item itemvalue="Application.SuffixArray" />
+        <item itemvalue="JUnit.BinarySearch.test" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="JUnit.Q4.testSol" />
-        <item itemvalue="JUnit.a1519NumberNodesSubTreeWiththeSameLabel.testSol" />
         <item itemvalue="JUnit.Q2.testSol" />
-        <item itemvalue="JUnit.Q1.testSol" />
       </list>
     </recent_temporary>
   </component>
@@ -882,6 +367,8 @@
       <workItem from="1668369224842" duration="4733000" />
       <workItem from="1668395832417" duration="3124000" />
       <workItem from="1668421284343" duration="3980000" />
+      <workItem from="1679583460613" duration="2523000" />
+      <workItem from="1683677575519" duration="2653000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>

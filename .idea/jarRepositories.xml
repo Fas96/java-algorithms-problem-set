@@ -2,9 +2,24 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="org.coursera.algs4" />
+      <option name="name" value="Algs4 coursera course custom repository" />
+      <option name="url" value="https://raw.github.com/slok/algs4-mvn-repo/master" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.test.algs4" />
+      <option name="name" value="Algs4 coursera course custom repository" />
+      <option name="url" value="https://raw.github.com/slok/algs4-mvn-repo/master" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.coursera.algs4" />
+      <option name="name" value="Algs4 lib" />
+      <option name="url" value="https://dl.bintray.com/algs4/maven/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
